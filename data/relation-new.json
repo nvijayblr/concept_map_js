@@ -1,0 +1,5703 @@
+{"SCI.BIO.947" : [{
+    "score": 0.2036,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.1789,
+    "EID": "SCI.BIO.944"
+}, {
+    "score": 0.1955,
+    "EID": "SCI.BIO.943"
+}, {
+    "score": 0.155,
+    "EID": "SCI.BIO.941"
+}, {
+    "score": 0.1346,
+    "EID": "SCI.BIO.617"
+}, {
+    "score": 0.1682,
+    "EID": "SCI.BIO.926"
+}, {
+    "score": 0.1216,
+    "EID": "SCI.BIO.948"
+}, {
+    "score": 0.1476,
+    "EID": "SCI.LSC.946"
+}, {
+    "score": 0.15,
+    "EID": "SCI.LSC.934.4"
+}, {
+    "score": 0.1435,
+    "EID": "SCI.BIO.929"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.946.1"
+}, {
+    "score": 0.1286,
+    "EID": "SCI.LSC.931.6"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.624"
+}, {
+    "score": 0.2087,
+    "EID": "SCI.BIO.911"
+}, {
+    "score": 0.1251,
+    "EID": "SCI.BIO.914"
+}, {
+    "score": 0.1324,
+    "EID": "SCI.BIO.958.2"
+}, {
+    "score": 0.1314,
+    "EID": "SCI.LSC.940.3"
+}, {
+    "score": 0.2008,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.1576,
+    "EID": "SCI.LSC.941.2"
+}, {
+    "score": 0.1816,
+    "EID": "SCI.LSC.941.1"
+}, {
+    "score": 0.1383,
+    "EID": "SCI.BIO.934.3"
+}, {
+    "score": 0.2021,
+    "EID": "SCI.LSC.942.1"
+}, {
+    "score": 0.1941,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "score": 0.1612,
+    "EID": "SCI.LSC.926.1"
+}, {
+    "score": 0.2373,
+    "EID": "SCI.BIO.947.1"
+}, {
+    "score": 0.132,
+    "EID": "SCI.LSC.200"
+}], "SCI.BIO.946": [{
+    "score": 0.0831,
+    "EID": "SCI.BIO.947"
+}, {
+    "score": 0.1968,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.2143,
+    "EID": "SCI.BIO.944"
+}, {
+    "score": 0.1222,
+    "EID": "SCI.BIO.943"
+}, {
+    "score": 0.0809,
+    "EID": "SCI.BIO.942"
+}, {
+    "score": 0.0841,
+    "EID": "SCI.BIO.941"
+}, {
+    "score": 0.2642,
+    "EID": "SCI.BIO.618"
+}, {
+    "score": 0.0706,
+    "EID": "SCI.BIO.617"
+}, {
+    "score": 0.0704,
+    "EID": "SCI.BIO.614"
+}, {
+    "score": 0.0687,
+    "EID": "SCI.BIO.223.1"
+}, {
+    "score": 0.0922,
+    "EID": "SCI.BIO.948"
+}, {
+    "score": 0.0942,
+    "EID": "SCI.BIO.947.1"
+}, {
+    "score": 0.0782,
+    "EID": "SCI.BIO.228.1"
+}, {
+    "score": 0.0725,
+    "EID": "SCI.BIO.911"
+}, {
+    "score": 0.09,
+    "EID": "SCI.ESC.342.7"
+}, {
+    "score": 0.0855,
+    "EID": "SCI.BIO.617.1"
+}, {
+    "score": 0.0983,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.1115,
+    "EID": "SCI.LSC.942.1"
+}, {
+    "score": 0.2397,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "p": true,
+    "EID": "SCI.LSC.946"
+}, {
+    "score": 0.0767,
+    "EID": "SCI.BIO.229"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.623.3"
+}, {
+    "score": 0.072,
+    "EID": "SCI.LSC.241"
+}, {
+    "score": 0.0751,
+    "EID": "SCI.LSC.200"
+}, {
+    "score": 0.0986,
+    "EID": "SCI.LSC.228"
+}], "SCI.BIO.945": [{
+    "score": 0.414,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.442,
+    "EID": "SCI.BIO.223"
+}, {
+    "p": true,
+    "score": 0.584,
+    "EID": "SCI.BIO.944"
+}, {
+    "score": 0.3169,
+    "EID": "SCI.BIO.943"
+}, {
+    "score": 0.6306,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "score": 0.4185,
+    "EID": "SCI.BIO.220.4"
+}, {
+    "score": 0.3934,
+    "EID": "SCI.BIO.220.5"
+}, {
+    "score": 0.3296,
+    "EID": "SCI.BIO.241.2"
+}, {
+    "score": 0.2983,
+    "EID": "SCI.BIO.242"
+}, {
+    "score": 0.279,
+    "EID": "SCI.LSC.931.4"
+}, {
+    "score": 0.3026,
+    "EID": "SCI.PSC.243.12"
+}, {
+    "score": 0.3335,
+    "EID": "SCI.BIO.224"
+}, {
+    "score": 0.2985,
+    "EID": "SCI.BIO.241.1"
+}, {
+    "score": 0.2762,
+    "EID": "SCI.BIO.222.1"
+}, {
+    "score": 0.3786,
+    "EID": "SCI.BIO.721"
+}, {
+    "score": 0.4117,
+    "EID": "SCI.BIO.220.1"
+}, {
+    "score": 0.4883,
+    "EID": "SCI.LSC.200"
+}, {
+    "score": 0.3387,
+    "EID": "SCI.BIO.413"
+}, {
+    "score": 0.2758,
+    "EID": "SCI.BIO.220.7"
+}, {
+    "score": 0.3355,
+    "EID": "SCI.BIO.414"
+}, {
+    "score": 0.4341,
+    "EID": "SCI.BIO.241"
+}], "SCI.BIO.944": [{
+    "score": 0.584,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.276,
+    "EID": "SCI.BIO.220.1"
+}, {
+    "p": true,
+    "score": 0.3497,
+    "EID": "SCI.BIO.943"
+}, {
+    "score": 0.2412,
+    "EID": "SCI.BIO.220.7"
+}, {
+    "score": 0.2676,
+    "EID": "SCI.BIO.220.4"
+}, {
+    "score": 0.2842,
+    "EID": "SCI.BIO.220.5"
+}, {
+    "score": 0.2271,
+    "EID": "SCI.BIO.612.2"
+}, {
+    "score": 0.2337,
+    "EID": "SCI.LSC.946"
+}, {
+    "score": 0.2241,
+    "EID": "SCI.BIO.241.2"
+}, {
+    "score": 0.2382,
+    "EID": "SCI.LSC.942.1"
+}, {
+    "score": 0.2248,
+    "EID": "SCI.LSC.931.5"
+}, {
+    "score": 0.2185,
+    "EID": "SCI.LSC.931.4"
+}, {
+    "score": 0.244,
+    "EID": "SCI.BIO.721"
+}, {
+    "score": 0.2188,
+    "EID": "SCI.BIO.931.3"
+}, {
+    "score": 0.2937,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.2899,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.2823,
+    "EID": "SCI.BIO.223"
+}, {
+    "score": 0.6722,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "score": 0.2287,
+    "EID": "SCI.BIO.224"
+}, {
+    "score": 0.2361,
+    "EID": "SCI.BIO.222.1"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.623.2"
+}, {
+    "score": 0.2276,
+    "EID": "SCI.LSC.225"
+}, {
+    "score": 0.3013,
+    "EID": "SCI.LSC.200"
+}], "SCI.BIO.943": [{
+    "score": 0.1955,
+    "EID": "SCI.BIO.947"
+}, {
+    "score": 0.1222,
+    "EID": "SCI.BIO.946"
+}, {
+    "score": 0.3169,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.3497,
+    "EID": "SCI.BIO.944"
+}, {
+    "score": 0.2085,
+    "EID": "SCI.BIO.942"
+}, {
+    "score": 0.1989,
+    "EID": "SCI.BIO.941"
+}, {
+    "score": 0.1941,
+    "EID": "SCI.BIO.947.1"
+}, {
+    "p": true,
+    "EID": "SCI.LSC.943"
+}, {
+    "score": 0.134,
+    "EID": "SCI.BIO.413"
+}, {
+    "score": 0.1415,
+    "EID": "SCI.BIO.414"
+}, {
+    "score": 0.1196,
+    "EID": "SCI.BIO.220.4"
+}, {
+    "score": 0.1353,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.2344,
+    "EID": "SCI.BIO.911"
+}, {
+    "score": 0.1994,
+    "EID": "SCI.LSC.931.4"
+}, {
+    "score": 0.6798,
+    "EID": "SCI.LSC.930.2"
+}, {
+    "score": 0.1551,
+    "EID": "SCI.BIO.721"
+}, {
+    "score": 0.1765,
+    "EID": "SCI.BIO.931.3"
+}, {
+    "score": 0.2551,
+    "EID": "SCI.LSC.942.1"
+}, {
+    "score": 0.1566,
+    "EID": "SCI.BIO.223"
+}, {
+    "score": 0.3712,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.623.3"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.623.2"
+}, {
+    "score": 0.177,
+    "EID": "SCI.LSC.241"
+}, {
+    "score": 0.1324,
+    "EID": "SCI.LSC.224"
+}, {
+    "score": 0.1961,
+    "EID": "SCI.LSC.200"
+}], "SCI.BIO.942": [{
+    "score": 0.0737,
+    "EID": "SCI.BIO.947"
+}, {
+    "score": 0.0809,
+    "EID": "SCI.BIO.946"
+}, {
+    "score": 0.1428,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.1593,
+    "EID": "SCI.BIO.944"
+}, {
+    "score": 0.2085,
+    "EID": "SCI.BIO.943"
+}, {
+    "score": 0.2929,
+    "EID": "SCI.BIO.941"
+}, {
+    "score": 0.0967,
+    "EID": "SCI.BIO.947.1"
+}, {
+    "score": 0.1337,
+    "EID": "SCI.BIO.946.1"
+}, {
+    "score": 0.0768,
+    "EID": "SCI.BIO.918"
+}, {
+    "score": 0.1066,
+    "EID": "SCI.BIO.911"
+}, {
+    "score": 0.0898,
+    "EID": "SCI.BIO.912"
+}, {
+    "score": 0.0674,
+    "EID": "SCI.LSC.931.4"
+}, {
+    "score": 0.1098,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.0731,
+    "EID": "SCI.LSC.941.1"
+}, {
+    "score": 0.0954,
+    "EID": "SCI.BIO.728"
+}, {
+    "p": true,
+    "score": 0.3553,
+    "EID": "SCI.LSC.942.1"
+}, {
+    "score": 0.1877,
+    "EID": "SCI.LSC.943.1"
+}], "SCI.BIO.941": [{
+    "score": 0.155,
+    "EID": "SCI.BIO.947"
+}, {
+    "score": 0.132,
+    "EID": "SCI.LSC.918.1"
+}, {
+    "score": 0.1505,
+    "EID": "SCI.BIO.944"
+}, {
+    "score": 0.1989,
+    "EID": "SCI.BIO.943"
+}, {
+    "score": 0.2929,
+    "EID": "SCI.BIO.942"
+}, {
+    "score": 0.1117,
+    "EID": "SCI.BIO.618"
+}, {
+    "score": 0.1476,
+    "EID": "SCI.BIO.613"
+}, {
+    "score": 0.1847,
+    "EID": "SCI.BIO.947.1"
+}, {
+    "score": 0.1411,
+    "EID": "SCI.LSC.934.4"
+}, {
+    "score": 0.1453,
+    "EID": "SCI.LSC.934.3"
+}, {
+    "score": 0.1297,
+    "EID": "SCI.LSC.936.6"
+}, {
+    "score": 0.1575,
+    "EID": "SCI.ESC.514.1"
+}, {
+    "score": 0.1068,
+    "EID": "SCI.BIO.831"
+}, {
+    "score": 0.108,
+    "EID": "SCI.BIO.222.5"
+}, {
+    "score": 0.1294,
+    "EID": "SCI.BIO.918"
+}, {
+    "score": 0.1626,
+    "EID": "SCI.BIO.911"
+}, {
+    "score": 0.1112,
+    "EID": "SCI.BIO.912"
+}, {
+    "score": 0.1155,
+    "EID": "SCI.LSC.940.2"
+}, {
+    "p": true,
+    "score": 0.366,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.2265,
+    "EID": "SCI.LSC.941.1"
+}, {
+    "score": 0.1047,
+    "EID": "SCI.LSC.938"
+}, {
+    "score": 0.3597,
+    "EID": "SCI.LSC.942.1"
+}, {
+    "score": 0.2212,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "score": 0.1094,
+    "EID": "SCI.LSC.946"
+}, {
+    "score": 0.11,
+    "EID": "SCI.BIO.936.1"
+}], "SCI.BIO.220.5": [{
+    "score": 0.3934,
+    "EID": "SCI.BIO.945"
+}, {
+    "p": true,
+    "score": 0.5667,
+    "EID": "SCI.BIO.220.1"
+}, {
+    "score": 0.4184,
+    "EID": "SCI.BIO.224"
+}, {
+    "score": 0.4818,
+    "EID": "SCI.BIO.220.4"
+}, {
+    "score": 0.4553,
+    "EID": "SCI.BIO.612.2"
+}, {
+    "score": 0.4532,
+    "EID": "SCI.BIO.241.1"
+}, {
+    "score": 0.3658,
+    "EID": "SCI.CHE.572.3"
+}, {
+    "score": 0.4171,
+    "EID": "SCI.BIO.220.7"
+}, {
+    "score": 0.4109,
+    "EID": "SCI.LSC.222.4"
+}, {
+    "score": 0.3582,
+    "EID": "SCI.PSC.243.12"
+}, {
+    "score": 0.3591,
+    "EID": "SCI.BIO.244"
+}, {
+    "score": 0.3738,
+    "EID": "SCI.LSC.631"
+}, {
+    "score": 0.3954,
+    "EID": "SCI.BIO.721"
+}, {
+    "score": 0.5929,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.4779,
+    "EID": "SCI.BIO.223"
+}, {
+    "score": 0.5928,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.484,
+    "EID": "SCI.BIO.242"
+}, {
+    "score": 0.3919,
+    "EID": "SCI.BIO.228"
+}, {
+    "score": 0.4157,
+    "EID": "SCI.BIO.222.1"
+}, {
+    "score": 0.4961,
+    "EID": "SCI.BIO.241.2"
+}, {
+    "score": 0.3611,
+    "EID": "SCI.LSC.225"
+}, {
+    "score": 0.4838,
+    "EID": "SCI.LSC.200"
+}], "SCI.BIO.220.8": [{
+    "score": 0.239,
+    "EID": "SCI.BIO.225.2"
+}, {
+    "score": 0.272,
+    "EID": "SCI.BIO.242.2"
+}, {
+    "p": true,
+    "score": 0.4099,
+    "EID": "SCI.BIO.220.7"
+}, {
+    "score": 0.2035,
+    "EID": "SCI.BIO.220.5"
+}, {
+    "score": 0.2137,
+    "EID": "SCI.BIO.924"
+}, {
+    "score": 0.8051,
+    "EID": "SCI.BIO.220.9"
+}, {
+    "score": 0.2328,
+    "EID": "SCI.BIO.229.2"
+}, {
+    "score": 0.204,
+    "EID": "SCI.BIO.228.3"
+}, {
+    "score": 0.1794,
+    "EID": "SCI.BIO.324"
+}, {
+    "score": 0.2104,
+    "EID": "SCI.LSC.222.4"
+}, {
+    "score": 0.2609,
+    "EID": "SCI.BIO.213"
+}, {
+    "score": 0.1932,
+    "EID": "SCI.BIO.242.1"
+}, {
+    "score": 0.1951,
+    "EID": "SCI.CHE.813"
+}, {
+    "score": 0.3071,
+    "EID": "SCI.BIO.927.2"
+}, {
+    "score": 0.2434,
+    "EID": "SCI.BIO.329.4"
+}, {
+    "score": 0.272,
+    "EID": "SCI.BIO.329.5"
+}, {
+    "score": 0.259,
+    "EID": "SCI.BIO.328.5"
+}, {
+    "score": 0.184,
+    "EID": "SCI.BIO.226"
+}, {
+    "score": 0.193,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.2427,
+    "EID": "SCI.LSC.326.1"
+}, {
+    "score": 0.185,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.181,
+    "EID": "SCI.BIO.242"
+}, {
+    "score": 0.2055,
+    "EID": "SCI.BIO.228"
+}, {
+    "score": 0.2218,
+    "EID": "SCI.BIO.222.1"
+}, {
+    "score": 0.2214,
+    "EID": "SCI.BIO.322.1"
+}], "SCI.BIO.220.9": [{
+    "score": 0.2193,
+    "EID": "SCI.BIO.225.2"
+}, {
+    "score": 0.3955,
+    "EID": "SCI.BIO.242.2"
+}, {
+    "p": true,
+    "score": 0.4165,
+    "EID": "SCI.BIO.220.7"
+}, {
+    "score": 0.1914,
+    "EID": "SCI.BIO.220.5"
+}, {
+    "score": 0.8051,
+    "EID": "SCI.BIO.220.8"
+}, {
+    "score": 0.2024,
+    "EID": "SCI.BIO.229.2"
+}, {
+    "score": 0.2014,
+    "EID": "SCI.BIO.228.3"
+}, {
+    "score": 0.2014,
+    "EID": "SCI.BIO.324"
+}, {
+    "score": 0.2062,
+    "EID": "SCI.CHE.616.5"
+}, {
+    "score": 0.1761,
+    "EID": "SCI.LSC.222.4"
+}, {
+    "score": 0.2733,
+    "EID": "SCI.BIO.213"
+}, {
+    "score": 0.1872,
+    "EID": "SCI.BIO.242.1"
+}, {
+    "score": 0.233,
+    "EID": "SCI.CHE.813"
+}, {
+    "score": 0.2036,
+    "EID": "SCI.BIO.927.2"
+}, {
+    "score": 0.2305,
+    "EID": "SCI.BIO.329.4"
+}, {
+    "score": 0.3955,
+    "EID": "SCI.BIO.329.5"
+}, {
+    "score": 0.2688,
+    "EID": "SCI.BIO.328.5"
+}, {
+    "score": 0.182,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.2683,
+    "EID": "SCI.LSC.326.1"
+}, {
+    "score": 0.1715,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.1744,
+    "EID": "SCI.BIO.242"
+}, {
+    "score": 0.1966,
+    "EID": "SCI.BIO.228"
+}, {
+    "score": 0.185,
+    "EID": "SCI.CHE.815.5"
+}, {
+    "score": 0.2094,
+    "EID": "SCI.BIO.222.1"
+}, {
+    "score": 0.1767,
+    "EID": "SCI.BIO.222.2"
+}, {
+    "score": 0.226,
+    "EID": "SCI.BIO.322.1"
+}], "MAT.ALY.820": [{
+    "score": 0.3993,
+    "EID": "MAT.TRG.336"
+}, {
+    "score": 0.4359,
+    "EID": "MAT.CAL.312"
+}, {
+    "p": true,
+    "EID": "MAT.ALY.816"
+}, {
+    "score": 0.3806,
+    "EID": "MAT.TRG.234"
+}, {
+    "score": 0.462,
+    "EID": "MAT.ALG.482.3"
+}, {
+    "score": 0.3859,
+    "EID": "MAT.ALG.484.3"
+}, {
+    "score": 0.451,
+    "EID": "MAT.CAL.841"
+}, {
+    "score": 0.4435,
+    "EID": "MAT.ALG.471"
+}, {
+    "score": 0.4691,
+    "EID": "MAT.ALG.472"
+}, {
+    "score": 0.4202,
+    "EID": "MAT.GEO.714"
+}, {
+    "score": 0.4922,
+    "EID": "MAT.GEO.252"
+}, {
+    "score": 0.43,
+    "EID": "MAT.GEO.652.3"
+}, {
+    "score": 0.396,
+    "EID": "MAT.ALG.481"
+}, {
+    "score": 0.5538,
+    "EID": "MAT.ALY.830"
+}, {
+    "p": true,
+    "score": 0.4904,
+    "EID": "MAT.ALG.470"
+}, {
+    "score": 0.4927,
+    "EID": "MAT.ALG.482.2"
+}, {
+    "score": 0.5029,
+    "EID": "MAT.ALG.490"
+}, {
+    "score": 0.882,
+    "EID": "MAT.CAL.311"
+}, {
+    "score": 0.4468,
+    "EID": "MAT.ALG.492"
+}, {
+    "score": 0.5,
+    "EID": "MAT.ALG.494"
+}, {
+    "score": 0.4481,
+    "EID": "MAT.ALG.451"
+}], "SCI.BIO.948": [{
+    "score": 0.1216,
+    "EID": "SCI.BIO.947"
+}, {
+    "score": 0.2078,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.1373,
+    "EID": "SCI.BIO.944"
+}, {
+    "score": 0.1009,
+    "EID": "SCI.BIO.943"
+}, {
+    "score": 0.2625,
+    "EID": "SCI.BIO.618"
+}, {
+    "score": 0.2099,
+    "EID": "SCI.BIO.617"
+}, {
+    "score": 0.0963,
+    "EID": "SCI.BIO.616"
+}, {
+    "score": 0.1664,
+    "EID": "SCI.BIO.614"
+}, {
+    "score": 0.1534,
+    "EID": "SCI.BIO.223.1"
+}, {
+    "p": true,
+    "score": 0.1738,
+    "EID": "SCI.BIO.947.1"
+}, {
+    "score": 0.0968,
+    "EID": "SCI.BIO.414"
+}, {
+    "score": 0.1855,
+    "EID": "SCI.BIO.615.2"
+}, {
+    "score": 0.1275,
+    "EID": "SCI.BIO.615.3"
+}, {
+    "score": 0.1901,
+    "EID": "SCI.BIO.615.1"
+}, {
+    "score": 0.0966,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.1163,
+    "EID": "SCI.BIO.959.2"
+}, {
+    "score": 0.8626,
+    "EID": "SCI.BIO.617.1"
+}, {
+    "score": 0.0976,
+    "EID": "SCI.LSC.931.4"
+}, {
+    "score": 0.1387,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.2407,
+    "EID": "SCI.LSC.959"
+}, {
+    "score": 0.1072,
+    "EID": "SCI.LSC.942.1"
+}, {
+    "score": 0.1032,
+    "EID": "SCI.BIO.223"
+}, {
+    "score": 0.179,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "score": 0.0948,
+    "EID": "SCI.LSC.946"
+}, {
+    "score": 0.1209,
+    "EID": "SCI.LSC.241"
+}, {
+    "score": 0.1218,
+    "EID": "SCI.LSC.200"
+}], "MAT.TRG.260": [{
+    "score": 0.4874,
+    "EID": "MAT.TRG.242"
+}, {
+    "p": true,
+    "score": 0.5859,
+    "EID": "MAT.TRG.240"
+}, {
+    "score": 0.4294,
+    "EID": "MAT.TRG.244"
+}, {
+    "score": 0.5944,
+    "EID": "MAT.TRG.300"
+}, {
+    "score": 0.2738,
+    "EID": "MAT.GEO.652.1"
+}, {
+    "score": 0.3114,
+    "EID": "MAT.GEO.652.2"
+}, {
+    "score": 0.271,
+    "EID": "MAT.GEO.652.4"
+}, {
+    "score": 0.3257,
+    "EID": "MAT.TRG.133"
+}, {
+    "p": true,
+    "EID": "MAT.ALY.140"
+}, {
+    "score": 0.3648,
+    "EID": "MAT.TRG.184"
+}, {
+    "score": 0.2778,
+    "EID": "MAT.TRG.334"
+}, {
+    "score": 0.2853,
+    "EID": "MAT.TRG.316"
+}, {
+    "score": 0.4639,
+    "EID": "MAT.TRG.233"
+}, {
+    "score": 0.789,
+    "EID": "MAT.TRG.232"
+}, {
+    "score": 0.3879,
+    "EID": "MAT.TRG.231"
+}, {
+    "score": 0.429,
+    "EID": "MAT.TRG.254"
+}, {
+    "score": 0.441,
+    "EID": "MAT.TRG.257"
+}, {
+    "score": 0.3978,
+    "EID": "MAT.TRG.270"
+}, {
+    "score": 0.2743,
+    "EID": "MAT.TRG.424"
+}, {
+    "score": 0.5422,
+    "EID": "MAT.TRG.252"
+}, {
+    "score": 0.3667,
+    "EID": "MAT.TRG.258"
+}, {
+    "score": 0.3275,
+    "EID": "MAT.CAL.843"
+}, {
+    "score": 0.3257,
+    "EID": "MAT.GEO.652"
+}, {
+    "score": 0.6056,
+    "EID": "MAT.TRG.272"
+}, {
+    "p": true,
+    "EID": "MAT.TRG.164"
+}, {
+    "score": 0.2732,
+    "EID": "MAT.ALY.112"
+}], "SCI.BIO.220.1": [{
+    "score": 0.5928,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.496,
+    "EID": "SCI.BIO.223"
+}, {
+    "score": 0.4117,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.3915,
+    "EID": "SCI.LSC.222.4"
+}, {
+    "score": 0.6109,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.6003,
+    "EID": "SCI.BIO.220.4"
+}, {
+    "score": 0.5667,
+    "EID": "SCI.BIO.220.5"
+}, {
+    "score": 0.4349,
+    "EID": "SCI.BIO.242"
+}, {
+    "score": 0.3709,
+    "EID": "SCI.BIO.228"
+}, {
+    "score": 0.398,
+    "EID": "SCI.BIO.222.3"
+}, {
+    "score": 0.4096,
+    "EID": "SCI.BIO.224"
+}, {
+    "score": 0.422,
+    "EID": "SCI.BIO.222.1"
+}, {
+    "score": 0.4272,
+    "EID": "SCI.BIO.241.1"
+}, {
+    "score": 0.4266,
+    "EID": "SCI.BIO.116"
+}, {
+    "score": 0.4362,
+    "EID": "SCI.BIO.721"
+}, {
+    "score": 0.4864,
+    "EID": "SCI.BIO.241.2"
+}, {
+    "score": 0.4109,
+    "EID": "SCI.LSC.116.1"
+}, {
+    "score": 0.5501,
+    "EID": "SCI.LSC.200"
+}, {
+    "score": 0.3904,
+    "EID": "SCI.BIO.220.7"
+}, {
+    "p": true,
+    "score": 0.4779,
+    "EID": "SCI.BIO.115"
+}], "MAT.ALG.812": [{
+    "score": 0.2473,
+    "EID": "MAT.ARI.520"
+}, {
+    "score": 0.5103,
+    "EID": "MAT.ALG.818"
+}, {
+    "score": 0.2751,
+    "EID": "MAT.ALG.245.2"
+}, {
+    "score": 0.256,
+    "EID": "MAT.ARI.470"
+}, {
+    "score": 0.2632,
+    "EID": "MAT.ALG.831"
+}, {
+    "score": 0.3002,
+    "EID": "MAT.ALG.700"
+}, {
+    "score": 0.2621,
+    "EID": "MAT.ALG.762"
+}, {
+    "score": 0.6309,
+    "EID": "MAT.ARI.500"
+}, {
+    "score": 0.3157,
+    "EID": "MAT.ALY.250"
+}, {
+    "score": 0.2475,
+    "EID": "MAT.ALY.233"
+}, {
+    "score": 0.5527,
+    "EID": "MAT.ALG.800"
+}, {
+    "score": 0.2706,
+    "EID": "MAT.ARI.410"
+}, {
+    "score": 0.2387,
+    "EID": "MAT.ALG.730"
+}, {
+    "score": 0.2688,
+    "EID": "MAT.ALG.815.1"
+}, {
+    "score": 0.301,
+    "EID": "MAT.ARI.510"
+}, {
+    "score": 0.3288,
+    "EID": "MAT.ARI.751"
+}, {
+    "score": 0.509,
+    "EID": "MAT.ARI.750"
+}, {
+    "score": 0.805,
+    "EID": "MAT.ALG.120"
+}, {
+    "score": 0.24,
+    "EID": "MAT.ALG.732.1"
+}, {
+    "p": true,
+    "score": 0.5158,
+    "EID": "MAT.ARI.300"
+}, {
+    "score": 0.2683,
+    "EID": "MAT.ALY.230"
+}], "SCI.ESC.624.1": [{
+    "score": 0.2879,
+    "EID": "SCI.PHY.247"
+}, {
+    "score": 0.3859,
+    "EID": "SCI.ESC.256.1"
+}, {
+    "score": 0.3132,
+    "EID": "SCI.PHY.249"
+}, {
+    "score": 0.3499,
+    "EID": "SCI.ESC.622"
+}, {
+    "score": 0.3048,
+    "EID": "SCI.PHY.247.1"
+}, {
+    "score": 0.2883,
+    "EID": "SCI.CHE.513.3"
+}, {
+    "score": 0.2718,
+    "EID": "SCI.CHE.513.1"
+}, {
+    "score": 0.2679,
+    "EID": "SCI.ESC.612"
+}, {
+    "score": 0.2441,
+    "EID": "SCI.ESC.252.1"
+}, {
+    "score": 0.241,
+    "EID": "SCI.CHE.513.4"
+}, {
+    "score": 0.2425,
+    "EID": "SCI.BIO.216.3"
+}, {
+    "score": 0.2467,
+    "EID": "SCI.ESC.672"
+}, {
+    "score": 0.2925,
+    "EID": "SCI.CHE.511.2"
+}, {
+    "score": 0.2449,
+    "EID": "SCI.ESC.724"
+}, {
+    "score": 0.2727,
+    "EID": "SCI.CHE.511.7"
+}, {
+    "score": 0.3344,
+    "EID": "SCI.ESC.252"
+}, {
+    "score": 0.2714,
+    "EID": "SCI.ESC.722.2"
+}, {
+    "score": 0.2475,
+    "EID": "SCI.ESC.625"
+}, {
+    "score": 0.43,
+    "EID": "SCI.ESC.624"
+}, {
+    "score": 0.3635,
+    "EID": "SCI.ESC.623"
+}, {
+    "score": 0.3998,
+    "EID": "SCI.ESC.623.1"
+}, {
+    "score": 0.3228,
+    "EID": "SCI.ESC.621"
+}, {
+    "score": 0.258,
+    "EID": "SCI.ESC.650"
+}], "SCI.PSC.231.23": [{
+    "score": 0.3296,
+    "EID": "SCI.PHY.322"
+}, {
+    "score": 0.4342,
+    "EID": "SCI.PHY.325"
+}, {
+    "score": 0.3312,
+    "EID": "MAT.TRG.300"
+}, {
+    "score": 0.6909,
+    "EID": "SCI.PSC.231.22"
+}, {
+    "score": 0.6494,
+    "EID": "SCI.PSC.231.21"
+}, {
+    "score": 0.3434,
+    "EID": "SCI.PSC.212.21"
+}, {
+    "score": 0.3827,
+    "EID": "SCI.ESC.432"
+}, {
+    "score": 0.3047,
+    "EID": "SCI.ESC.650"
+}, {
+    "score": 0.4216,
+    "EID": "MAT.TRG.258"
+}, {
+    "score": 0.4562,
+    "EID": "SCI.PHY.318"
+}, {
+    "score": 0.5512,
+    "EID": "SCI.PHY.333"
+}, {
+    "score": 0.6478,
+    "EID": "SCI.PHY.311"
+}, {
+    "score": 0.5193,
+    "EID": "SCI.PHY.310"
+}, {
+    "score": 0.7059,
+    "EID": "SCI.PHY.311.2"
+}, {
+    "score": 0.4762,
+    "EID": "SCI.PHY.311.3"
+}, {
+    "score": 0.5801,
+    "EID": "SCI.PSC.233.21"
+}, {
+    "score": 0.4456,
+    "EID": "MAT.TRG.257"
+}, {
+    "score": 0.5349,
+    "EID": "SCI.CHE.222.3"
+}, {
+    "score": 0.7746,
+    "EID": "SCI.CHE.221.2"
+}, {
+    "score": 0.3423,
+    "EID": "SCI.PSC.231.62"
+}, {
+    "score": 0.5283,
+    "EID": "SCI.PSC.231.11"
+}, {
+    "score": 0.5241,
+    "EID": "SCI.ESC.543"
+}, {
+    "score": 0.5131,
+    "EID": "SCI.PSC.231.14"
+}, {
+    "score": 0.3962,
+    "EID": "SCI.ESC.432.1"
+}, {
+    "score": 0.4507,
+    "EID": "SCI.PHY.319.1"
+}, {
+    "score": 0.5445,
+    "EID": "SCI.PHY.319.2"
+}, {
+    "score": 0.5197,
+    "EID": "SCI.PSC.231.3"
+}], "SCI.PSC.231.22": [{
+    "score": 0.3659,
+    "EID": "SCI.PSC.232.42"
+}, {
+    "score": 0.7055,
+    "EID": "SCI.CHE.221.2"
+}, {
+    "score": 0.417,
+    "EID": "MAT.TRG.300"
+}, {
+    "score": 0.6909,
+    "EID": "SCI.PSC.231.23"
+}, {
+    "score": 0.3735,
+    "EID": "SCI.ESC.363"
+}, {
+    "score": 0.4718,
+    "EID": "SCI.PSC.231.21"
+}, {
+    "score": 0.4466,
+    "EID": "SCI.PSC.231.62"
+}, {
+    "score": 0.3764,
+    "EID": "SCI.ESC.432"
+}, {
+    "score": 0.394,
+    "EID": "SCI.ESC.312"
+}, {
+    "score": 0.3694,
+    "EID": "MAT.STA.411.1"
+}, {
+    "score": 0.5547,
+    "EID": "SCI.PHY.318"
+}, {
+    "score": 0.4966,
+    "EID": "SCI.PHY.333"
+}, {
+    "score": 0.6542,
+    "EID": "SCI.PHY.311"
+}, {
+    "score": 0.4934,
+    "EID": "SCI.PHY.310"
+}, {
+    "score": 0.7118,
+    "EID": "SCI.PHY.311.2"
+}, {
+    "score": 0.4892,
+    "EID": "SCI.PHY.311.3"
+}, {
+    "score": 0.5629,
+    "EID": "SCI.PSC.233.21"
+}, {
+    "score": 0.6212,
+    "EID": "MAT.TRG.257"
+}, {
+    "score": 0.3944,
+    "EID": "MAT.STA.226.2"
+}, {
+    "score": 0.5524,
+    "EID": "MAT.TRG.258"
+}, {
+    "score": 0.5238,
+    "EID": "SCI.PSC.231.11"
+}, {
+    "score": 0.5602,
+    "EID": "SCI.ESC.543"
+}, {
+    "score": 0.524,
+    "EID": "SCI.PSC.231.14"
+}, {
+    "score": 0.3983,
+    "EID": "SCI.ESC.432.1"
+}, {
+    "score": 0.4014,
+    "EID": "SCI.PHY.319.1"
+}, {
+    "score": 0.3857,
+    "EID": "SCI.PHY.319.2"
+}, {
+    "score": 0.5366,
+    "EID": "SCI.PSC.231.3"
+}], "SCI.PSC.231.21": [{
+    "score": 0.3668,
+    "EID": "SCI.PHY.364"
+}, {
+    "score": 0.3189,
+    "EID": "SCI.PHY.333.3"
+}, {
+    "score": 0.4718,
+    "EID": "SCI.PSC.231.22"
+}, {
+    "score": 0.6494,
+    "EID": "SCI.PSC.231.23"
+}, {
+    "score": 0.3259,
+    "EID": "SCI.ESC.363"
+}, {
+    "score": 0.3518,
+    "EID": "SCI.PSC.231.62"
+}, {
+    "score": 0.299,
+    "EID": "SCI.ESC.432"
+}, {
+    "score": 0.697,
+    "EID": "SCI.CHE.221.2"
+}, {
+    "score": 0.4902,
+    "EID": "SCI.PHY.333"
+}, {
+    "score": 0.52,
+    "EID": "SCI.PHY.311"
+}, {
+    "score": 0.4054,
+    "EID": "SCI.PHY.310"
+}, {
+    "score": 0.6229,
+    "EID": "SCI.PHY.311.2"
+}, {
+    "score": 0.5757,
+    "EID": "SCI.PHY.311.3"
+}, {
+    "score": 0.5144,
+    "EID": "SCI.PSC.233.21"
+}, {
+    "score": 0.4897,
+    "EID": "SCI.CHE.222.3"
+}, {
+    "score": 0.3306,
+    "EID": "SCI.ESC.312"
+}, {
+    "score": 0.3202,
+    "EID": "SCI.CHE.221.1"
+}, {
+    "score": 0.5099,
+    "EID": "SCI.PSC.231.11"
+}, {
+    "score": 0.4891,
+    "EID": "SCI.ESC.543"
+}, {
+    "score": 0.4614,
+    "EID": "SCI.PSC.231.14"
+}, {
+    "score": 0.2874,
+    "EID": "SCI.PSC.233.2"
+}, {
+    "score": 0.3162,
+    "EID": "SCI.ESC.432.1"
+}, {
+    "score": 0.3077,
+    "EID": "SCI.ESC.623"
+}, {
+    "score": 0.3125,
+    "EID": "SCI.PHY.319.1"
+}, {
+    "score": 0.4392,
+    "EID": "SCI.PHY.319.2"
+}, {
+    "score": 0.5243,
+    "EID": "SCI.PSC.231.3"
+}, {
+    "score": 0.3118,
+    "EID": "SCI.PSC.231.6"
+}], "SCI.PSC.223.41": [{
+    "score": 0.6447,
+    "EID": "SCI.CHE.131.6"
+}, {
+    "score": 0.4639,
+    "EID": "SCI.PHY.223"
+}, {
+    "score": 0.538,
+    "EID": "SCI.CHE.521.4"
+}, {
+    "score": 0.5346,
+    "EID": "SCI.PSC.132.5"
+}, {
+    "score": 0.6287,
+    "EID": "SCI.ESC.252.1"
+}, {
+    "score": 0.7651,
+    "EID": "SCI.ESC.252.2"
+}, {
+    "score": 0.5116,
+    "EID": "SCI.BIO.216.1"
+}, {
+    "score": 0.8061,
+    "EID": "SCI.BIO.216.3"
+}, {
+    "score": 0.4926,
+    "EID": "SCI.PSC.224.1"
+}, {
+    "score": 0.4489,
+    "EID": "SCI.BIO.231"
+}, {
+    "score": 0.4571,
+    "EID": "SCI.BIO.231.2"
+}, {
+    "score": 0.7534,
+    "EID": "SCI.PSC.223"
+}, {
+    "score": 0.6662,
+    "EID": "SCI.CHE.511.1"
+}, {
+    "score": 0.4508,
+    "EID": "SCI.LSC.512"
+}, {
+    "score": 0.6068,
+    "EID": "SCI.PHY.233"
+}, {
+    "score": 0.6735,
+    "EID": "SCI.PHY.231"
+}, {
+    "score": 0.6856,
+    "EID": "SCI.PHY.234"
+}, {
+    "score": 0.6817,
+    "EID": "SCI.PSC.223.03"
+}, {
+    "score": 0.4507,
+    "EID": "SCI.ESC.256"
+}, {
+    "score": 0.749,
+    "EID": "SCI.ESC.252"
+}, {
+    "score": 0.7533,
+    "EID": "SCI.CHE.113.2"
+}, {
+    "score": 0.7399,
+    "EID": "SCI.ESC.621"
+}], "SCI.CHE.262.1": [{
+    "score": 0.1714,
+    "EID": "SCI.BIO.220.4"
+}, {
+    "score": 0.3509,
+    "EID": "SCI.CHE.264.2"
+}, {
+    "score": 0.1762,
+    "EID": "SCI.CHE.264.5"
+}, {
+    "score": 0.1732,
+    "EID": "SCI.PSC.126"
+}, {
+    "score": 0.2734,
+    "EID": "SCI.CHE.262.2"
+}, {
+    "score": 0.2137,
+    "EID": "SCI.PSC.111.23"
+}, {
+    "score": 0.1779,
+    "EID": "SCI.CHE.261.8"
+}, {
+    "score": 0.2164,
+    "EID": "SCI.CHE.251.2"
+}, {
+    "score": 0.1696,
+    "EID": "SCI.CHE.251.3"
+}, {
+    "score": 0.2873,
+    "EID": "SCI.CHE.251.1"
+}, {
+    "score": 0.2752,
+    "EID": "SCI.CHE.261.3"
+}, {
+    "score": 0.2452,
+    "EID": "SCI.CHE.261.2"
+}, {
+    "score": 0.2026,
+    "EID": "SCI.CHE.261.4"
+}, {
+    "score": 0.2357,
+    "EID": "SCI.CHE.262.3"
+}, {
+    "score": 0.2204,
+    "EID": "SCI.PSC.122.22"
+}, {
+    "score": 0.2193,
+    "EID": "SCI.PHY.512.1"
+}, {
+    "score": 0.1818,
+    "EID": "SCI.CHE.212.6"
+}, {
+    "score": 0.1779,
+    "EID": "SCI.CHE.212.2"
+}, {
+    "score": 0.2207,
+    "EID": "SCI.CHE.222.6"
+}, {
+    "score": 0.1777,
+    "EID": "SCI.CHE.233.4"
+}, {
+    "score": 0.2289,
+    "EID": "SCI.ESC.216"
+}, {
+    "score": 0.2173,
+    "EID": "SCI.CHE.233.3"
+}, {
+    "score": 0.2455,
+    "EID": "SCI.BIO.114"
+}, {
+    "score": 0.3435,
+    "EID": "SCI.CHE.223.7"
+}, {
+    "score": 0.224,
+    "EID": "SCI.ESC.114.7"
+}, {
+    "score": 0.253,
+    "EID": "SCI.ESC.114.6"
+}], "SCI.CHE.262.2": [{
+    "score": 0.2458,
+    "EID": "SCI.CHE.264.2"
+}, {
+    "score": 0.3775,
+    "EID": "SCI.CHE.264.6"
+}, {
+    "score": 0.3361,
+    "EID": "SCI.CHE.264.4"
+}, {
+    "score": 0.2533,
+    "EID": "SCI.CHE.263.1"
+}, {
+    "score": 0.2822,
+    "EID": "SCI.CHE.263.2"
+}, {
+    "score": 0.4629,
+    "EID": "SCI.CHE.263.5"
+}, {
+    "score": 0.2734,
+    "EID": "SCI.CHE.262.1"
+}, {
+    "score": 0.4604,
+    "EID": "SCI.CHE.262.3"
+}, {
+    "score": 0.4073,
+    "EID": "SCI.CHE.261.8"
+}, {
+    "score": 0.2666,
+    "EID": "SCI.PSC.171.1"
+}, {
+    "score": 0.4919,
+    "EID": "SCI.CHE.431.1"
+}, {
+    "score": 0.3219,
+    "EID": "SCI.CHE.261.3"
+}, {
+    "score": 0.3003,
+    "EID": "SCI.CHE.261.2"
+}, {
+    "score": 0.2954,
+    "EID": "SCI.CHE.261.1"
+}, {
+    "score": 0.2912,
+    "EID": "SCI.CHE.261.7"
+}, {
+    "score": 0.2398,
+    "EID": "SCI.CHE.261.6"
+}, {
+    "score": 0.2716,
+    "EID": "SCI.CHE.261.5"
+}, {
+    "score": 0.408,
+    "EID": "SCI.CHE.261.4"
+}, {
+    "score": 0.2644,
+    "EID": "SCI.CHE.723"
+}, {
+    "score": 0.2572,
+    "EID": "SCI.CHE.721.1"
+}, {
+    "score": 0.2852,
+    "EID": "SCI.CHE.722.1"
+}, {
+    "score": 0.257,
+    "EID": "SCI.BIO.218.2"
+}, {
+    "score": 0.2675,
+    "EID": "SCI.CHE.551.3"
+}, {
+    "score": 0.2938,
+    "EID": "SCI.ESC.212"
+}, {
+    "score": 0.3739,
+    "EID": "SCI.ESC.216"
+}, {
+    "score": 0.2617,
+    "EID": "SCI.CHE.246.1"
+}, {
+    "score": 0.3226,
+    "EID": "SCI.CHE.242.1"
+}, {
+    "score": 0.2783,
+    "EID": "SCI.CHE.724.1"
+}, {
+    "score": 0.2829,
+    "EID": "SCI.CHE.323"
+}], "SCI.BIO.220.7": [{
+    "score": 0.2724,
+    "EID": "SCI.BIO.225.3"
+}, {
+    "score": 0.2758,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.3904,
+    "EID": "SCI.BIO.220.1"
+}, {
+    "score": 0.2885,
+    "EID": "SCI.BIO.224"
+}, {
+    "score": 0.3153,
+    "EID": "SCI.BIO.220.4"
+}, {
+    "score": 0.4171,
+    "EID": "SCI.BIO.220.5"
+}, {
+    "p": true,
+    "score": 0.4099,
+    "EID": "SCI.BIO.220.8"
+}, {
+    "score": 0.2699,
+    "EID": "SCI.BIO.612.2"
+}, {
+    "score": 0.2878,
+    "EID": "SCI.BIO.241.1"
+}, {
+    "score": 0.2638,
+    "EID": "SCI.CHE.572.3"
+}, {
+    "score": 0.3282,
+    "EID": "SCI.LSC.222.4"
+}, {
+    "score": 0.2706,
+    "EID": "SCI.BIO.242.1"
+}, {
+    "score": 0.4165,
+    "EID": "SCI.BIO.220.9"
+}, {
+    "score": 0.2492,
+    "EID": "SCI.BIO.721"
+}, {
+    "score": 0.2695,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "score": 0.3916,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.2561,
+    "EID": "SCI.BIO.223"
+}, {
+    "score": 0.3991,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.3606,
+    "EID": "SCI.BIO.242"
+}, {
+    "score": 0.3167,
+    "EID": "SCI.BIO.228"
+}, {
+    "score": 0.317,
+    "EID": "SCI.BIO.222.1"
+}, {
+    "score": 0.3312,
+    "EID": "SCI.BIO.241.2"
+}, {
+    "score": 0.2877,
+    "EID": "SCI.LSC.225"
+}, {
+    "score": 0.2898,
+    "EID": "SCI.LSC.200"
+}], "MAT.ALY.742": [{
+    "score": 0.3049,
+    "EID": "MAT.ALY.762.2"
+}, {
+    "score": 0.3436,
+    "EID": "MAT.ALY.762.1"
+}, {
+    "p": true,
+    "EID": "MAT.ALY.732"
+}, {
+    "score": 0.3218,
+    "EID": "MAT.ALY.700"
+}, {
+    "p": true,
+    "score": 0.4937,
+    "EID": "MAT.ALY.724"
+}, {
+    "score": 0.4654,
+    "EID": "MAT.CAL.743"
+}, {
+    "score": 0.6874,
+    "EID": "MAT.ALY.740"
+}, {
+    "score": 0.5403,
+    "EID": "MAT.CAL.741"
+}, {
+    "score": 0.6144,
+    "EID": "MAT.ALY.720"
+}, {
+    "score": 0.5381,
+    "EID": "MAT.CAL.721"
+}, {
+    "score": 0.4094,
+    "EID": "MAT.ALY.722"
+}, {
+    "score": 0.4618,
+    "EID": "MAT.CAL.745"
+}, {
+    "p": true,
+    "EID": "MAT.ALY.760"
+}, {
+    "score": 0.4854,
+    "EID": "MAT.CAL.761"
+}, {
+    "score": 0.5788,
+    "EID": "MAT.CAL.722"
+}, {
+    "score": 0.6649,
+    "EID": "MAT.ALY.744"
+}, {
+    "score": 0.357,
+    "EID": "MAT.ALG.936.3"
+}, {
+    "score": 0.3957,
+    "EID": "MAT.ALY.721"
+}, {
+    "p": true,
+    "score": 0.5873,
+    "EID": "MAT.ALY.716"
+}, {
+    "score": 0.4493,
+    "EID": "MAT.CAL.735"
+}, {
+    "score": 0.3562,
+    "EID": "MAT.CAL.734"
+}, {
+    "score": 0.3597,
+    "EID": "MAT.CAL.733"
+}, {
+    "score": 0.4254,
+    "EID": "MAT.CAL.732"
+}, {
+    "score": 0.4588,
+    "EID": "MAT.CAL.731"
+}, {
+    "score": 0.4988,
+    "EID": "MAT.CAL.755"
+}, {
+    "score": 0.4288,
+    "EID": "MAT.CAL.772"
+}, {
+    "score": 0.6211,
+    "EID": "MAT.ALY.771"
+}, {
+    "score": 0.5329,
+    "EID": "MAT.ALY.770"
+}, {
+    "score": 0.4282,
+    "EID": "MAT.CAL.751"
+}], "MAT.PRB.630": [{
+    "score": 0.3318,
+    "EID": "MAT.STA.416"
+}, {
+    "score": 0.3093,
+    "EID": "MAT.PRB.618"
+}, {
+    "score": 0.4246,
+    "EID": "MAT.PRB.614"
+}, {
+    "score": 0.3484,
+    "EID": "MAT.STA.334"
+}, {
+    "score": 0.228,
+    "EID": "MAT.STA.310"
+}, {
+    "p": true,
+    "score": 0.7108,
+    "EID": "MAT.PRB.612"
+}, {
+    "score": 0.25,
+    "EID": "MAT.STA.416.1"
+}, {
+    "score": 0.2269,
+    "EID": "MAT.CAL.258"
+}, {
+    "score": 0.328,
+    "EID": "MAT.CAL.250"
+}, {
+    "score": 0.2649,
+    "EID": "MAT.CAL.252"
+}, {
+    "score": 0.3785,
+    "EID": "MAT.STA.338.1"
+}, {
+    "score": 0.2031,
+    "EID": "MAT.ALY.816"
+}, {
+    "score": 0.4873,
+    "EID": "MAT.ALY.124"
+}, {
+    "score": 0.3436,
+    "EID": "MAT.STA.420"
+}, {
+    "score": 0.269,
+    "EID": "MAT.STA.424"
+}, {
+    "score": 0.3477,
+    "EID": "MAT.PRB.621"
+}, {
+    "score": 0.7577,
+    "EID": "MAT.PRB.600"
+}, {
+    "score": 0.1889,
+    "EID": "MAT.ALG.134"
+}, {
+    "score": 0.3135,
+    "EID": "MAT.STA.432.1"
+}, {
+    "score": 0.4416,
+    "EID": "MAT.STA.432.3"
+}, {
+    "score": 0.2991,
+    "EID": "MAT.ALG.411"
+}, {
+    "score": 0.2947,
+    "EID": "MAT.PRB.800"
+}, {
+    "score": 0.2703,
+    "EID": "MAT.STA.438"
+}, {
+    "score": 0.3213,
+    "EID": "MAT.STA.221"
+}], "MAT.ALG.954": [{
+    "score": 0.3021,
+    "EID": "MAT.ALG.952.31"
+}, {
+    "score": 0.199,
+    "EID": "MAT.ALG.518"
+}, {
+    "score": 0.1974,
+    "EID": "MAT.ALG.500"
+}, {
+    "score": 0.192,
+    "EID": "MAT.ALG.516"
+}, {
+    "score": 0.3703,
+    "EID": "MAT.ALG.955"
+}, {
+    "score": 0.3246,
+    "EID": "MAT.ALG.956"
+}, {
+    "score": 0.3193,
+    "EID": "MAT.ALG.951"
+}, {
+    "p": true,
+    "score": 0.3216,
+    "EID": "MAT.ALG.953"
+}, {
+    "score": 0.3288,
+    "EID": "MAT.ALG.952"
+}, {
+    "score": 0.2536,
+    "EID": "MAT.ALG.514"
+}, {
+    "score": 0.207,
+    "EID": "MAT.ALG.517"
+}, {
+    "score": 0.1929,
+    "EID": "MAT.ALG.530"
+}, {
+    "score": 0.1903,
+    "EID": "MAT.ALY.844"
+}, {
+    "score": 0.3631,
+    "EID": "MAT.ALG.955.1"
+}, {
+    "score": 0.3972,
+    "EID": "MAT.ALG.955.2"
+}, {
+    "score": 0.3228,
+    "EID": "MAT.ALG.955.3"
+}, {
+    "score": 0.2167,
+    "EID": "MAT.ALG.519"
+}, {
+    "score": 0.1976,
+    "EID": "MAT.ALG.519.1"
+}, {
+    "score": 0.1984,
+    "EID": "MAT.ALG.952.3"
+}, {
+    "p": true,
+    "score": 0.3105,
+    "EID": "MAT.ALG.955.12"
+}, {
+    "score": 0.2145,
+    "EID": "MAT.ALG.955.11"
+}, {
+    "score": 0.1925,
+    "EID": "MAT.ALG.516.2"
+}, {
+    "score": 0.2444,
+    "EID": "MAT.ALG.516.1"
+}], "SCI.BIO.221": [{
+    "score": 0.1614,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.1884,
+    "EID": "SCI.BIO.220.1"
+}, {
+    "score": 0.2334,
+    "EID": "SCI.BIO.220.4"
+}, {
+    "score": 0.1495,
+    "EID": "SCI.BIO.220.5"
+}, {
+    "score": 0.1638,
+    "EID": "SCI.BIO.616"
+}, {
+    "score": 0.15,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.3169,
+    "EID": "SCI.BIO.114.4"
+}, {
+    "score": 0.1475,
+    "EID": "SCI.BIO.413"
+}, {
+    "score": 0.1518,
+    "EID": "SCI.BIO.414"
+}, {
+    "score": 0.1683,
+    "EID": "SCI.PSC.111.64"
+}, {
+    "score": 0.5955,
+    "EID": "SCI.LSC.116.3"
+}, {
+    "score": 0.1354,
+    "EID": "SCI.LSC.931.4"
+}, {
+    "score": 0.145,
+    "EID": "SCI.BIO.721"
+}, {
+    "score": 0.139,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "p": true,
+    "score": 0.5543,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.1814,
+    "EID": "SCI.BIO.223"
+}, {
+    "score": 0.1806,
+    "EID": "SCI.BIO.115"
+}, {
+    "score": 0.1316,
+    "EID": "SCI.BIO.224"
+}, {
+    "score": 0.1298,
+    "EID": "SCI.BIO.222.3"
+}, {
+    "score": 0.4942,
+    "EID": "SCI.BIO.221.1"
+}, {
+    "score": 0.3767,
+    "EID": "SCI.LSC.200"
+}, {
+    "score": 0.1944,
+    "EID": "SCI.PSC.234.7"
+}], "MAT.ALY.740": [{
+    "score": 0.3254,
+    "EID": "MAT.ALY.762.1"
+}, {
+    "score": 0.6874,
+    "EID": "MAT.ALY.742"
+}, {
+    "score": 0.3233,
+    "EID": "MAT.ALY.700"
+}, {
+    "score": 0.4416,
+    "EID": "MAT.ALY.724"
+}, {
+    "score": 0.5083,
+    "EID": "MAT.CAL.743"
+}, {
+    "score": 0.5228,
+    "EID": "MAT.CAL.741"
+}, {
+    "score": 0.5909,
+    "EID": "MAT.ALY.720"
+}, {
+    "score": 0.6312,
+    "EID": "MAT.CAL.721"
+}, {
+    "score": 0.7384,
+    "EID": "MAT.CAL.722"
+}, {
+    "score": 0.5247,
+    "EID": "MAT.CAL.745"
+}, {
+    "p": true,
+    "score": 0.2959,
+    "EID": "MAT.ALY.760"
+}, {
+    "score": 0.4485,
+    "EID": "MAT.CAL.761"
+}, {
+    "score": 0.5259,
+    "EID": "MAT.ALY.721"
+}, {
+    "score": 0.8114,
+    "EID": "MAT.ALY.744"
+}, {
+    "score": 0.3404,
+    "EID": "MAT.ALY.722"
+}, {
+    "score": 0.3337,
+    "EID": "MAT.ALG.936.3"
+}, {
+    "p": true,
+    "score": 0.4918,
+    "EID": "MAT.ALY.716"
+}, {
+    "score": 0.4939,
+    "EID": "MAT.CAL.735"
+}, {
+    "score": 0.4174,
+    "EID": "MAT.CAL.734"
+}, {
+    "score": 0.3828,
+    "EID": "MAT.CAL.733"
+}, {
+    "score": 0.4433,
+    "EID": "MAT.CAL.732"
+}, {
+    "score": 0.5812,
+    "EID": "MAT.CAL.731"
+}, {
+    "score": 0.4773,
+    "EID": "MAT.CAL.755"
+}, {
+    "score": 0.4062,
+    "EID": "MAT.CAL.772"
+}, {
+    "score": 0.5254,
+    "EID": "MAT.ALY.771"
+}, {
+    "score": 0.4755,
+    "EID": "MAT.ALY.770"
+}, {
+    "score": 0.4593,
+    "EID": "MAT.CAL.751"
+}], "SCI.PSC.113.4": [{
+    "score": 0.3196,
+    "EID": "MAT.STA.212.4"
+}, {
+    "score": 0.22,
+    "EID": "MAT.STA.212.5"
+}, {
+    "score": 0.2888,
+    "EID": "MAT.STA.212.6"
+}, {
+    "score": 0.1907,
+    "EID": "MAT.STA.224"
+}, {
+    "score": 0.2969,
+    "EID": "MAT.STA.212.1"
+}, {
+    "score": 0.232,
+    "EID": "MAT.STA.443"
+}, {
+    "score": 0.2185,
+    "EID": "MAT.STA.442"
+}, {
+    "score": 0.2085,
+    "EID": "MAT.STA.440"
+}, {
+    "score": 0.2033,
+    "EID": "MAT.STA.528"
+}, {
+    "score": 0.1951,
+    "EID": "MAT.STA.447.1"
+}, {
+    "score": 0.2778,
+    "EID": "MAT.STA.214"
+}, {
+    "score": 0.2597,
+    "EID": "MAT.STA.214.1"
+}, {
+    "p": true,
+    "score": 0.4473,
+    "EID": "MAT.STA.212"
+}, {
+    "score": 0.2067,
+    "EID": "MAT.STA.210"
+}, {
+    "score": 0.1915,
+    "EID": "MAT.STA.242.1"
+}, {
+    "score": 0.3469,
+    "EID": "MAT.STA.222.3"
+}, {
+    "score": 0.2109,
+    "EID": "MAT.STA.222.2"
+}, {
+    "score": 0.2129,
+    "EID": "MAT.STA.338"
+}], "MAT.ALG.956": [{
+    "score": 0.6959,
+    "EID": "MAT.ALG.952.31"
+}, {
+    "score": 0.3578,
+    "EID": "MAT.CAL.836"
+}, {
+    "score": 0.3521,
+    "EID": "MAT.CAL.521"
+}, {
+    "score": 0.3141,
+    "EID": "MAT.CAL.564"
+}, {
+    "score": 0.4254,
+    "EID": "MAT.ALY.334.3"
+}, {
+    "score": 0.3833,
+    "EID": "MAT.TRG.422"
+}, {
+    "score": 0.6375,
+    "EID": "MAT.ALG.955"
+}, {
+    "p": true,
+    "score": 0.3664,
+    "EID": "MAT.ALG.954"
+}, {
+    "p": true,
+    "score": 0.6753,
+    "EID": "MAT.ALG.951"
+}, {
+    "score": 0.4157,
+    "EID": "MAT.ALY.310"
+}, {
+    "score": 0.5237,
+    "EID": "MAT.ALG.953"
+}, {
+    "score": 0.7022,
+    "EID": "MAT.ALG.952"
+}, {
+    "score": 0.3972,
+    "EID": "MAT.TRG.416"
+}, {
+    "score": 0.7397,
+    "EID": "MAT.ALG.955.1"
+}, {
+    "score": 0.6511,
+    "EID": "MAT.ALG.955.2"
+}, {
+    "score": 0.6168,
+    "EID": "MAT.ALG.955.3"
+}, {
+    "score": 0.3869,
+    "EID": "MAT.ARI.440"
+}, {
+    "score": 0.4848,
+    "EID": "MAT.ALG.952.3"
+}, {
+    "score": 0.3537,
+    "EID": "MAT.ALG.952.2"
+}, {
+    "score": 0.4308,
+    "EID": "MAT.ALG.952.1"
+}, {
+    "p": true,
+    "score": 0.5569,
+    "EID": "MAT.ALG.955.12"
+}, {
+    "score": 0.4292,
+    "EID": "MAT.ALG.955.11"
+}], "SCI.PHY.253.5": [{
+    "p": true,
+    "EID": "SCI.PSC.225.35"
+}, {
+    "score": 0.2643,
+    "EID": "SCI.CHE.131.5"
+}, {
+    "p": true,
+    "EID": "SCI.PSC.225.31"
+}, {
+    "score": 0.2002,
+    "EID": "SCI.ESC.511.2"
+}, {
+    "score": 0.1936,
+    "EID": "SCI.ESC.511.3"
+}, {
+    "score": 0.1827,
+    "EID": "SCI.PHY.147.1"
+}, {
+    "score": 0.1951,
+    "EID": "MAT.ALY.560"
+}, {
+    "score": 0.222,
+    "EID": "SCI.BIO.218"
+}, {
+    "score": 0.1899,
+    "EID": "SCI.CHE.431.2"
+}, {
+    "score": 0.1945,
+    "EID": "SCI.ESC.513"
+}, {
+    "score": 0.1836,
+    "EID": "SCI.ESC.512"
+}, {
+    "score": 0.1951,
+    "EID": "SCI.PSC.214.3"
+}, {
+    "score": 0.1947,
+    "EID": "SCI.BIO.218.2"
+}, {
+    "score": 0.214,
+    "EID": "SCI.BIO.218.1"
+}, {
+    "score": 0.1969,
+    "EID": "SCI.PHY.232"
+}, {
+    "score": 0.219,
+    "EID": "SCI.PHY.226.1"
+}, {
+    "score": 0.2019,
+    "EID": "SCI.PHY.253"
+}, {
+    "score": 0.5043,
+    "EID": "SCI.PHY.253.1"
+}, {
+    "score": 0.1879,
+    "EID": "SCI.PHY.149"
+}, {
+    "score": 0.2217,
+    "EID": "SCI.PHY.144"
+}, {
+    "score": 0.2627,
+    "EID": "SCI.PHY.145"
+}, {
+    "score": 0.1855,
+    "EID": "MAT.GEO.854"
+}, {
+    "score": 0.3243,
+    "EID": "MAT.CAL.490"
+}, {
+    "score": 0.189,
+    "EID": "MAT.CAL.495"
+}, {
+    "score": 0.2095,
+    "EID": "MAT.GEO.890"
+}, {
+    "score": 0.2672,
+    "EID": "SCI.PSC.112.12"
+}], "MAT.CAL.126": [{
+    "score": 0.3535,
+    "EID": "MAT.ALY.162"
+}, {
+    "score": 0.3724,
+    "EID": "MAT.TRG.424"
+}, {
+    "score": 0.3583,
+    "EID": "MAT.CAL.836"
+}, {
+    "score": 0.5972,
+    "EID": "MAT.CAL.520"
+}, {
+    "score": 0.5013,
+    "EID": "MAT.ALG.441"
+}, {
+    "score": 0.3981,
+    "EID": "MAT.ALG.427"
+}, {
+    "score": 0.421,
+    "EID": "MAT.ALY.231"
+}, {
+    "score": 0.4363,
+    "EID": "MAT.CAL.250"
+}, {
+    "score": 0.4634,
+    "EID": "MAT.ALY.160"
+}, {
+    "score": 0.4404,
+    "EID": "MAT.ALY.144"
+}, {
+    "score": 0.4216,
+    "EID": "MAT.CAL.120"
+}, {
+    "score": 0.5549,
+    "EID": "MAT.ALY.140"
+}, {
+    "score": 0.3759,
+    "EID": "MAT.ALY.142"
+}, {
+    "score": 0.5068,
+    "EID": "MAT.ALY.312"
+}, {
+    "score": 0.3699,
+    "EID": "MAT.ALY.126"
+}, {
+    "score": 0.6244,
+    "EID": "MAT.TRG.316"
+}, {
+    "score": 0.3828,
+    "EID": "MAT.ALG.455"
+}, {
+    "score": 0.3796,
+    "EID": "MAT.ALG.431"
+}, {
+    "score": 0.3991,
+    "EID": "MAT.ALG.214.1"
+}, {
+    "score": 0.395,
+    "EID": "MAT.ALG.411"
+}, {
+    "score": 0.3819,
+    "EID": "MAT.CAL.365"
+}, {
+    "score": 0.4179,
+    "EID": "MAT.ALG.940"
+}, {
+    "score": 0.3826,
+    "EID": "MAT.ALG.922"
+}, {
+    "score": 0.3579,
+    "EID": "MAT.CAL.349"
+}, {
+    "score": 0.4273,
+    "EID": "MAT.ALY.156"
+}, {
+    "score": 0.4017,
+    "EID": "MAT.ALY.154"
+}, {
+    "score": 0.4596,
+    "EID": "MAT.CAL.138"
+}, {
+    "score": 0.369,
+    "EID": "MAT.ALY.232.1"
+}, {
+    "score": 0.3582,
+    "EID": "MAT.ALY.110"
+}, {
+    "p": true,
+    "score": 0.6953,
+    "EID": "MAT.ALY.116"
+}], "SCI.PSC.143.21": [{
+    "score": 0.2618,
+    "EID": "SCI.ESC.511.2"
+}, {
+    "score": 0.4,
+    "EID": "SCI.CHE.443.1"
+}, {
+    "score": 0.4672,
+    "EID": "SCI.PSC.144.16"
+}, {
+    "score": 0.2536,
+    "EID": "SCI.BIO.228.2"
+}, {
+    "score": 0.3255,
+    "EID": "SCI.BIO.219"
+}, {
+    "score": 0.2553,
+    "EID": "SCI.BIO.218"
+}, {
+    "score": 0.6141,
+    "EID": "SCI.PSC.144"
+}, {
+    "score": 0.387,
+    "EID": "SCI.CHE.432.3"
+}, {
+    "score": 0.4509,
+    "EID": "SCI.CHE.432.2"
+}, {
+    "score": 0.1969,
+    "EID": "SCI.ESC.513"
+}, {
+    "score": 0.2357,
+    "EID": "SCI.BIO.218.2"
+}, {
+    "score": 0.219,
+    "EID": "SCI.BIO.218.1"
+}, {
+    "score": 0.3804,
+    "EID": "SCI.PSC.144.3"
+}, {
+    "score": 0.2352,
+    "EID": "SCI.PSC.144.2"
+}, {
+    "score": 0.3424,
+    "EID": "SCI.PSC.144.1"
+}, {
+    "score": 0.3367,
+    "EID": "SCI.CHE.442.2"
+}, {
+    "score": 0.2499,
+    "EID": "SCI.CHE.442.4"
+}, {
+    "score": 0.1908,
+    "EID": "SCI.CHE.441.4"
+}, {
+    "score": 0.3666,
+    "EID": "SCI.CHE.441.3"
+}, {
+    "score": 0.437,
+    "EID": "SCI.CHE.441.2"
+}, {
+    "score": 0.403,
+    "EID": "SCI.CHE.441.1"
+}, {
+    "score": 0.193,
+    "EID": "SCI.PSC.124.2"
+}, {
+    "score": 0.2298,
+    "EID": "SCI.CHE.443.5"
+}, {
+    "score": 0.21,
+    "EID": "SCI.PSC.126.35"
+}, {
+    "score": 0.2004,
+    "EID": "SCI.CHE.443.2"
+}, {
+    "score": 0.1954,
+    "EID": "SCI.PSC.126.31"
+}], "MAT.ALG.751.2": [{
+    "score": 0.2865,
+    "EID": "MAT.TRG.324"
+}, {
+    "score": 0.2329,
+    "EID": "MAT.TRG.327"
+}, {
+    "score": 0.2668,
+    "EID": "MAT.TRG.326"
+}, {
+    "score": 0.3058,
+    "EID": "MAT.ALY.681"
+}, {
+    "score": 0.2285,
+    "EID": "MAT.ALG.912"
+}, {
+    "score": 0.2518,
+    "EID": "MAT.ALG.916"
+}, {
+    "score": 0.5674,
+    "EID": "MAT.ALG.734"
+}, {
+    "score": 0.6606,
+    "EID": "MAT.ALG.736"
+}, {
+    "score": 0.2647,
+    "EID": "MAT.ALY.250"
+}, {
+    "p": true,
+    "EID": "MAT.ALG.610"
+}, {
+    "score": 0.2586,
+    "EID": "MAT.ALG.922.1"
+}, {
+    "score": 0.2566,
+    "EID": "MAT.ALG.240"
+}, {
+    "score": 0.3208,
+    "EID": "MAT.ALG.242"
+}, {
+    "score": 0.354,
+    "EID": "MAT.ALG.245"
+}, {
+    "score": 0.3563,
+    "EID": "MAT.ALG.751.1"
+}, {
+    "score": 0.2373,
+    "EID": "MAT.ALG.220"
+}, {
+    "score": 0.4976,
+    "EID": "MAT.ALG.736.1"
+}, {
+    "score": 0.2311,
+    "EID": "MAT.ALG.634"
+}, {
+    "score": 0.3645,
+    "EID": "MAT.ALG.762"
+}, {
+    "score": 0.2293,
+    "EID": "MAT.ALG.514"
+}, {
+    "score": 0.2853,
+    "EID": "MAT.ALY.424"
+}, {
+    "score": 0.3131,
+    "EID": "MAT.ALY.233"
+}, {
+    "score": 0.2784,
+    "EID": "MAT.ALG.732.1"
+}, {
+    "score": 0.2283,
+    "EID": "MAT.ALG.360.1"
+}], "MAT.ALG.953": [{
+    "score": 0.5906,
+    "EID": "MAT.ALG.952.31"
+}, {
+    "score": 0.1426,
+    "EID": "MAT.TRG.524"
+}, {
+    "score": 0.1386,
+    "EID": "MAT.TRG.521"
+}, {
+    "score": 0.1558,
+    "EID": "MAT.TRG.520"
+}, {
+    "score": 0.5565,
+    "EID": "MAT.ALG.955"
+}, {
+    "score": 0.4525,
+    "EID": "MAT.ALG.954"
+}, {
+    "score": 0.1565,
+    "EID": "MAT.ALG.957"
+}, {
+    "score": 0.5883,
+    "EID": "MAT.ALG.956"
+}, {
+    "p": true,
+    "score": 0.5882,
+    "EID": "MAT.ALG.951"
+}, {
+    "p": true,
+    "score": 0.613,
+    "EID": "MAT.ALG.952"
+}, {
+    "score": 0.1531,
+    "EID": "MAT.GEO.812"
+}, {
+    "score": 0.5326,
+    "EID": "MAT.ALG.955.1"
+}, {
+    "score": 0.4921,
+    "EID": "MAT.ALG.955.2"
+}, {
+    "score": 0.5358,
+    "EID": "MAT.ALG.955.3"
+}, {
+    "p": true,
+    "EID": "MAT.ALG.510"
+}, {
+    "score": 0.1346,
+    "EID": "MAT.GEO.839"
+}, {
+    "score": 0.1516,
+    "EID": "MAT.PRB.324"
+}, {
+    "score": 0.4334,
+    "EID": "MAT.ALG.952.3"
+}, {
+    "score": 0.3079,
+    "EID": "MAT.ALG.952.2"
+}, {
+    "score": 0.3809,
+    "EID": "MAT.ALG.952.1"
+}, {
+    "score": 0.4882,
+    "EID": "MAT.ALG.955.12"
+}, {
+    "score": 0.3663,
+    "EID": "MAT.ALG.955.11"
+}], "MAT.ALG.751.1": [{
+    "score": 0.3725,
+    "EID": "MAT.ALY.250"
+}, {
+    "score": 0.3547,
+    "EID": "MAT.ALY.815"
+}, {
+    "score": 0.315,
+    "EID": "MAT.ALG.933.1"
+}, {
+    "score": 0.436,
+    "EID": "MAT.ARI.300"
+}, {
+    "score": 0.3132,
+    "EID": "MAT.ALG.734"
+}, {
+    "score": 0.4182,
+    "EID": "MAT.ALY.230"
+}, {
+    "p": true,
+    "score": 0.3044,
+    "EID": "MAT.ARI.630"
+}, {
+    "score": 0.3882,
+    "EID": "MAT.ALG.730"
+}, {
+    "score": 0.3766,
+    "EID": "MAT.ALG.732"
+}, {
+    "score": 0.2988,
+    "EID": "MAT.ALG.766.1"
+}, {
+    "score": 0.3563,
+    "EID": "MAT.ALG.751.2"
+}, {
+    "score": 0.323,
+    "EID": "MAT.ARI.750"
+}, {
+    "score": 0.2784,
+    "EID": "MAT.ALG.220"
+}, {
+    "score": 0.3759,
+    "EID": "MAT.ALG.732.2"
+}, {
+    "score": 0.5915,
+    "EID": "MAT.ALG.762"
+}, {
+    "score": 0.329,
+    "EID": "MAT.ALG.720"
+}, {
+    "score": 0.4835,
+    "EID": "MAT.ALG.700"
+}, {
+    "score": 0.3269,
+    "EID": "MAT.ALG.245.2"
+}, {
+    "score": 0.5584,
+    "EID": "MAT.ALY.233"
+}, {
+    "score": 0.3133,
+    "EID": "MAT.ALG.716"
+}, {
+    "score": 0.4341,
+    "EID": "MAT.ALG.732.1"
+}, {
+    "score": 0.2975,
+    "EID": "MAT.ARI.430"
+}], "SCI.BIO.837.4": [{
+    "score": 0.1529,
+    "EID": "SCI.BIO.425.1"
+}, {
+    "score": 0.1467,
+    "EID": "SCI.BIO.425.3"
+}, {
+    "score": 0.1806,
+    "EID": "SCI.BIO.425.2"
+}, {
+    "score": 0.1485,
+    "EID": "SCI.BIO.417"
+}, {
+    "score": 0.1774,
+    "EID": "SCI.BIO.836.4"
+}, {
+    "score": 0.1522,
+    "EID": "SCI.ESC.746.2"
+}, {
+    "score": 0.2925,
+    "EID": "SCI.LSC.837.6"
+}, {
+    "score": 0.2711,
+    "EID": "SCI.LSC.837.7"
+}, {
+    "score": 0.1489,
+    "EID": "SCI.BIO.845.2"
+}, {
+    "score": 0.1259,
+    "EID": "SCI.BIO.845.1"
+}, {
+    "score": 0.2153,
+    "EID": "SCI.BIO.833"
+}, {
+    "score": 0.307,
+    "EID": "SCI.BIO.837.5"
+}, {
+    "score": 0.4336,
+    "EID": "SCI.BIO.837.1"
+}, {
+    "score": 0.2695,
+    "EID": "SCI.BIO.837.2"
+}, {
+    "score": 0.261,
+    "EID": "SCI.BIO.837.3"
+}, {
+    "score": 0.1225,
+    "EID": "SCI.BIO.826"
+}, {
+    "score": 0.1241,
+    "EID": "SCI.LSC.428.4"
+}, {
+    "score": 0.1191,
+    "EID": "SCI.LSC.428.7"
+}, {
+    "score": 0.4444,
+    "EID": "SCI.LSC.837"
+}, {
+    "score": 0.1589,
+    "EID": "SCI.ESC.744.1"
+}, {
+    "score": 0.1526,
+    "EID": "SCI.BIO.119"
+}, {
+    "p": true,
+    "score": 0.1908,
+    "EID": "SCI.BIO.429.3"
+}, {
+    "score": 0.1951,
+    "EID": "SCI.LSC.425.4"
+}], "SCI.BIO.837.5": [{
+    "score": 0.148,
+    "EID": "SCI.ESC.856"
+}, {
+    "score": 0.1636,
+    "EID": "SCI.BIO.717"
+}, {
+    "score": 0.1659,
+    "EID": "SCI.BIO.425.3"
+}, {
+    "score": 0.1421,
+    "EID": "SCI.LSC.826.1"
+}, {
+    "score": 0.1312,
+    "EID": "SCI.BIO.835.4"
+}, {
+    "score": 0.1586,
+    "EID": "SCI.BIO.511"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.513"
+}, {
+    "score": 0.1394,
+    "EID": "SCI.BIO.833"
+}, {
+    "score": 0.1687,
+    "EID": "SCI.ESC.746.1"
+}, {
+    "score": 0.1357,
+    "EID": "SCI.LSC.513"
+}, {
+    "score": 0.6085,
+    "EID": "SCI.LSC.837.6"
+}, {
+    "score": 0.4893,
+    "EID": "SCI.LSC.837.7"
+}, {
+    "score": 0.1463,
+    "EID": "SCI.LSC.527.3"
+}, {
+    "score": 0.307,
+    "EID": "SCI.BIO.837.4"
+}, {
+    "score": 0.1998,
+    "EID": "SCI.BIO.527.2"
+}, {
+    "score": 0.1707,
+    "EID": "SCI.BIO.836.5"
+}, {
+    "score": 0.4854,
+    "EID": "SCI.BIO.837.1"
+}, {
+    "score": 0.4002,
+    "EID": "SCI.BIO.837.2"
+}, {
+    "score": 0.443,
+    "EID": "SCI.BIO.837.3"
+}, {
+    "score": 0.1265,
+    "EID": "SCI.BIO.826"
+}, {
+    "score": 0.1327,
+    "EID": "SCI.LSC.826.3"
+}, {
+    "score": 0.1575,
+    "EID": "SCI.LSC.428.7"
+}, {
+    "score": 0.529,
+    "EID": "SCI.LSC.837"
+}, {
+    "score": 0.1457,
+    "EID": "SCI.LSC.527.4"
+}, {
+    "score": 0.1284,
+    "EID": "SCI.LSC.841.5"
+}, {
+    "score": 0.1471,
+    "EID": "SCI.ESC.831"
+}, {
+    "score": 0.1728,
+    "EID": "SCI.ESC.812"
+}], "MAT.PRB.120": [{
+    "score": 0.4784,
+    "EID": "MAT.PRB.614"
+}, {
+    "score": 0.4687,
+    "EID": "MAT.PRB.318"
+}, {
+    "score": 0.5573,
+    "EID": "MAT.PRB.240"
+}, {
+    "score": 0.5335,
+    "EID": "MAT.PRB.561"
+}, {
+    "score": 0.4926,
+    "EID": "MAT.PRB.622.2"
+}, {
+    "score": 0.5992,
+    "EID": "MAT.PRB.316"
+}, {
+    "score": 0.6301,
+    "EID": "MAT.STA.415.1"
+}, {
+    "score": 0.4739,
+    "EID": "MAT.PRB.560"
+}, {
+    "score": 0.5263,
+    "EID": "MAT.STA.415.2"
+}, {
+    "score": 0.6999,
+    "EID": "MAT.PRB.100"
+}, {
+    "p": true,
+    "score": 0.7456,
+    "EID": "MAT.PRB.101"
+}, {
+    "score": 0.5928,
+    "EID": "MAT.PRB.410"
+}, {
+    "score": 0.6141,
+    "EID": "MAT.PRB.110"
+}, {
+    "score": 0.5941,
+    "EID": "MAT.PRB.510"
+}, {
+    "score": 0.5175,
+    "EID": "MAT.PRB.423"
+}, {
+    "score": 0.5689,
+    "EID": "MAT.PRB.422"
+}, {
+    "score": 0.516,
+    "EID": "MAT.PRB.420"
+}, {
+    "score": 0.5623,
+    "EID": "MAT.PRB.400"
+}, {
+    "score": 0.5569,
+    "EID": "MAT.PRB.425"
+}, {
+    "score": 0.4996,
+    "EID": "MAT.PRB.424"
+}], "SCI.CHE.113.7": [{
+    "score": 0.0757,
+    "EID": "SCI.PSC.125.33"
+}, {
+    "score": 0.1378,
+    "EID": "SCI.ESC.260.2"
+}, {
+    "score": 0.1056,
+    "EID": "SCI.ESC.261.2"
+}, {
+    "score": 0.0793,
+    "EID": "SCI.ESC.261.3"
+}, {
+    "score": 0.0834,
+    "EID": "SCI.BIO.114.4"
+}, {
+    "score": 0.0729,
+    "EID": "SCI.CHE.572.4"
+}, {
+    "score": 0.0727,
+    "EID": "SCI.CHE.262.2"
+}, {
+    "score": 0.0909,
+    "EID": "SCI.ESC.223"
+}, {
+    "score": 0.1327,
+    "EID": "SCI.ESC.222"
+}, {
+    "score": 0.0774,
+    "EID": "SCI.PSC.161"
+}, {
+    "score": 0.1717,
+    "EID": "SCI.CHE.123.1"
+}, {
+    "score": 0.0706,
+    "EID": "SCI.CHE.573.5"
+}, {
+    "score": 0.0715,
+    "EID": "SCI.LSC.116.4"
+}, {
+    "score": 0.091,
+    "EID": "SCI.PSC.111.51"
+}, {
+    "score": 0.1271,
+    "EID": "SCI.CHE.121.3"
+}, {
+    "score": 0.0714,
+    "EID": "SCI.PSC.111.4"
+}, {
+    "score": 0.0777,
+    "EID": "SCI.CHE.700"
+}, {
+    "score": 0.1563,
+    "EID": "SCI.CHE.212.7"
+}, {
+    "score": 0.1046,
+    "EID": "SCI.CHE.113"
+}, {
+    "score": 0.1203,
+    "EID": "SCI.CHE.113.6"
+}, {
+    "score": 0.0803,
+    "EID": "SCI.CHE.113.4"
+}, {
+    "score": 0.1158,
+    "EID": "SCI.CHE.113.3"
+}, {
+    "score": 0.0956,
+    "EID": "SCI.CHE.243.3"
+}, {
+    "score": 0.0897,
+    "EID": "SCI.CHE.243.1"
+}, {
+    "score": 0.0721,
+    "EID": "SCI.CHE.112.1"
+}, {
+    "score": 0.1144,
+    "EID": "SCI.CHE.122.4"
+}, {
+    "score": 0.1073,
+    "EID": "SCI.CHE.111.1"
+}, {
+    "score": 0.1526,
+    "EID": "SCI.CHE.111.2"
+}], "SCI.BIO.837.1": [{
+    "score": 0.1368,
+    "EID": "SCI.PSC.225.34"
+}, {
+    "score": 0.1108,
+    "EID": "SCI.BIO.832.2"
+}, {
+    "score": 0.1369,
+    "EID": "SCI.BIO.826"
+}, {
+    "score": 0.1066,
+    "EID": "SCI.BIO.425.2"
+}, {
+    "score": 0.1114,
+    "EID": "SCI.LSC.849.3"
+}, {
+    "score": 0.1089,
+    "EID": "SCI.BIO.849.2"
+}, {
+    "score": 0.1325,
+    "EID": "SCI.ESC.746.1"
+}, {
+    "score": 0.1379,
+    "EID": "SCI.BIO.911"
+}, {
+    "score": 0.5189,
+    "EID": "SCI.LSC.837.6"
+}, {
+    "score": 0.4859,
+    "EID": "SCI.LSC.837.7"
+}, {
+    "score": 0.1072,
+    "EID": "SCI.BIO.419.2"
+}, {
+    "score": 0.4336,
+    "EID": "SCI.BIO.837.4"
+}, {
+    "score": 0.4854,
+    "EID": "SCI.BIO.837.5"
+}, {
+    "score": 0.108,
+    "EID": "SCI.BIO.831"
+}, {
+    "score": 0.4222,
+    "EID": "SCI.BIO.837.2"
+}, {
+    "score": 0.4541,
+    "EID": "SCI.BIO.837.3"
+}, {
+    "score": 0.1339,
+    "EID": "SCI.BIO.836.1"
+}, {
+    "score": 0.1306,
+    "EID": "SCI.BIO.425.3"
+}, {
+    "p": true,
+    "score": 0.7422,
+    "EID": "SCI.LSC.837"
+}, {
+    "score": 0.1132,
+    "EID": "SCI.BIO.931.1"
+}, {
+    "score": 0.1639,
+    "EID": "SCI.BIO.833"
+}, {
+    "score": 0.1358,
+    "EID": "SCI.BIO.841.1"
+}, {
+    "score": 0.1259,
+    "EID": "SCI.ESC.831"
+}, {
+    "score": 0.1055,
+    "EID": "SCI.BIO.429.3"
+}], "SCI.BIO.837.2": [{
+    "score": 0.1526,
+    "EID": "SCI.BIO.832.1"
+}, {
+    "score": 0.1336,
+    "EID": "SCI.LSC.849"
+}, {
+    "score": 0.1138,
+    "EID": "SCI.BIO.245.1"
+}, {
+    "score": 0.1089,
+    "EID": "SCI.BIO.425.3"
+}, {
+    "score": 0.1388,
+    "EID": "SCI.BIO.834.2"
+}, {
+    "score": 0.196,
+    "EID": "SCI.BIO.835.2"
+}, {
+    "score": 0.1232,
+    "EID": "SCI.LSC.849.2"
+}, {
+    "score": 0.1309,
+    "EID": "SCI.LSC.849.1"
+}, {
+    "score": 0.1492,
+    "EID": "SCI.LSC.848.1"
+}, {
+    "score": 0.3689,
+    "EID": "SCI.BIO.849.3"
+}, {
+    "score": 0.1199,
+    "EID": "SCI.BIO.833"
+}, {
+    "score": 0.4038,
+    "EID": "SCI.LSC.837.6"
+}, {
+    "score": 0.4081,
+    "EID": "SCI.LSC.837.7"
+}, {
+    "score": 0.2695,
+    "EID": "SCI.BIO.837.4"
+}, {
+    "score": 0.4002,
+    "EID": "SCI.BIO.837.5"
+}, {
+    "score": 0.2756,
+    "EID": "SCI.BIO.836.2"
+}, {
+    "score": 0.4222,
+    "EID": "SCI.BIO.837.1"
+}, {
+    "score": 0.3391,
+    "EID": "SCI.BIO.837.3"
+}, {
+    "score": 0.1103,
+    "EID": "SCI.LSC.953"
+}, {
+    "score": 0.4554,
+    "EID": "SCI.LSC.837"
+}, {
+    "score": 0.1209,
+    "EID": "SCI.LSC.836"
+}, {
+    "score": 0.1497,
+    "EID": "SCI.LSC.841.4"
+}, {
+    "score": 0.1065,
+    "EID": "SCI.BIO.117"
+}, {
+    "score": 0.1152,
+    "EID": "SCI.LSC.525.1"
+}, {
+    "score": 0.1887,
+    "EID": "SCI.LSC.245"
+}, {
+    "p": true,
+    "EID": "SCI.LSC.837.2"
+}, {
+    "score": 0.155,
+    "EID": "SCI.BIO.844"
+}], "SCI.BIO.837.3": [{
+    "score": 0.0804,
+    "EID": "SCI.PSC.225.34"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.832.2"
+}, {
+    "score": 0.1241,
+    "EID": "SCI.BIO.425.3"
+}, {
+    "score": 0.0765,
+    "EID": "SCI.BIO.425.2"
+}, {
+    "score": 0.088,
+    "EID": "SCI.LSC.849.3"
+}, {
+    "score": 0.0869,
+    "EID": "SCI.BIO.849.2"
+}, {
+    "score": 0.1198,
+    "EID": "SCI.BIO.833"
+}, {
+    "score": 0.102,
+    "EID": "SCI.ESC.746.1"
+}, {
+    "score": 0.6025,
+    "EID": "SCI.LSC.837.6"
+}, {
+    "score": 0.4506,
+    "EID": "SCI.LSC.837.7"
+}, {
+    "score": 0.1115,
+    "EID": "SCI.BIO.419.2"
+}, {
+    "score": 0.261,
+    "EID": "SCI.BIO.837.4"
+}, {
+    "score": 0.443,
+    "EID": "SCI.BIO.837.5"
+}, {
+    "score": 0.4541,
+    "EID": "SCI.BIO.837.1"
+}, {
+    "score": 0.3391,
+    "EID": "SCI.BIO.837.2"
+}, {
+    "score": 0.0763,
+    "EID": "SCI.BIO.812"
+}, {
+    "score": 0.116,
+    "EID": "SCI.LSC.831"
+}, {
+    "score": 0.105,
+    "EID": "SCI.LSC.428.7"
+}, {
+    "score": 0.6011,
+    "EID": "SCI.LSC.837"
+}, {
+    "score": 0.0731,
+    "EID": "SCI.LSC.836"
+}, {
+    "score": 0.0825,
+    "EID": "SCI.BIO.112"
+}, {
+    "score": 0.1002,
+    "EID": "SCI.BIO.117"
+}, {
+    "score": 0.1249,
+    "EID": "SCI.ESC.831"
+}, {
+    "score": 0.1268,
+    "EID": "SCI.LSC.425.4"
+}, {
+    "score": 0.0821,
+    "EID": "SCI.ESC.811"
+}], "MAT.ALG.921.3": [{
+    "score": 0.353,
+    "EID": "MAT.ALY.622"
+}, {
+    "score": 0.7084,
+    "EID": "MAT.ALG.921.1"
+}, {
+    "score": 0.3758,
+    "EID": "MAT.ALY.620"
+}, {
+    "score": 0.4749,
+    "EID": "MAT.ALY.623"
+}, {
+    "score": 0.3819,
+    "EID": "MAT.ALG.921.2"
+}, {
+    "score": 0.4363,
+    "EID": "MAT.ALG.921.5"
+}, {
+    "p": true,
+    "score": 0.7485,
+    "EID": "MAT.ALG.921"
+}, {
+    "score": 0.6997,
+    "EID": "MAT.ALG.922"
+}, {
+    "score": 0.5207,
+    "EID": "MAT.ALG.921.4"
+}, {
+    "score": 0.8194,
+    "EID": "MAT.ALG.914.1"
+}, {
+    "score": 0.4477,
+    "EID": "MAT.ALG.942"
+}, {
+    "score": 0.4331,
+    "EID": "MAT.ALY.118"
+}, {
+    "score": 0.7431,
+    "EID": "MAT.ALY.214"
+}, {
+    "score": 0.3616,
+    "EID": "MAT.ALG.360.2"
+}, {
+    "score": 0.4538,
+    "EID": "MAT.ALG.454"
+}, {
+    "score": 0.4813,
+    "EID": "MAT.ALG.453"
+}, {
+    "p": true,
+    "EID": "MAT.ALG.451"
+}, {
+    "score": 0.3665,
+    "EID": "MAT.ALG.360.4"
+}, {
+    "score": 0.5196,
+    "EID": "MAT.ALG.922.1"
+}], "MAT.ALG.200": [{
+    "score": 0.339,
+    "EID": "MAT.TRG.320"
+}, {
+    "score": 0.3466,
+    "EID": "MAT.TRG.324"
+}, {
+    "score": 0.3875,
+    "EID": "MAT.ALG.250"
+}, {
+    "p": true,
+    "score": 0.3708,
+    "EID": "MAT.ALG.143.1"
+}, {
+    "score": 0.3967,
+    "EID": "MAT.ALG.230"
+}, {
+    "score": 0.3235,
+    "EID": "MAT.ALG.231"
+}, {
+    "score": 0.3365,
+    "EID": "MAT.ALG.232"
+}, {
+    "score": 0.3478,
+    "EID": "MAT.ALG.233"
+}, {
+    "score": 0.3741,
+    "EID": "MAT.ALG.933"
+}, {
+    "score": 0.3353,
+    "EID": "MAT.ALG.838"
+}, {
+    "score": 0.4051,
+    "EID": "MAT.ALG.243"
+}, {
+    "score": 0.3478,
+    "EID": "MAT.ALG.242"
+}, {
+    "score": 0.37,
+    "EID": "MAT.ALG.246"
+}, {
+    "score": 0.3258,
+    "EID": "MAT.ALG.222"
+}, {
+    "score": 0.3339,
+    "EID": "MAT.ALG.221"
+}, {
+    "score": 0.4585,
+    "EID": "MAT.ALG.220"
+}, {
+    "score": 0.3992,
+    "EID": "MAT.ALG.242.4"
+}, {
+    "score": 0.3251,
+    "EID": "MAT.ALG.762"
+}, {
+    "score": 0.3383,
+    "EID": "MAT.ALG.242.2"
+}, {
+    "score": 0.3459,
+    "EID": "MAT.ALG.514"
+}, {
+    "score": 0.3194,
+    "EID": "MAT.ALG.510"
+}, {
+    "score": 0.3615,
+    "EID": "MAT.ALG.518"
+}, {
+    "score": 0.3516,
+    "EID": "MAT.ALY.322"
+}, {
+    "score": 0.3699,
+    "EID": "MAT.ALG.245.2"
+}], "MAT.CAL.642": [{
+    "score": 0.2617,
+    "EID": "MAT.TRG.323"
+}, {
+    "score": 0.2788,
+    "EID": "MAT.CAL.440"
+}, {
+    "score": 0.1918,
+    "EID": "MAT.TRG.170"
+}, {
+    "score": 0.1806,
+    "EID": "MAT.CAL.831"
+}, {
+    "score": 0.1929,
+    "EID": "MAT.ALY.862"
+}, {
+    "score": 0.2096,
+    "EID": "MAT.CAL.560"
+}, {
+    "score": 0.1997,
+    "EID": "MAT.CAL.564"
+}, {
+    "score": 0.2259,
+    "EID": "MAT.CAL.622"
+}, {
+    "score": 0.2644,
+    "EID": "MAT.CAL.626"
+}, {
+    "score": 0.1781,
+    "EID": "MAT.CAL.884"
+}, {
+    "score": 0.1908,
+    "EID": "MAT.CAL.886"
+}, {
+    "score": 0.2486,
+    "EID": "MAT.CAL.663"
+}, {
+    "score": 0.2406,
+    "EID": "MAT.CAL.662"
+}, {
+    "score": 0.1701,
+    "EID": "MAT.TRG.319"
+}, {
+    "score": 0.1754,
+    "EID": "MAT.TRG.164"
+}, {
+    "score": 0.2448,
+    "EID": "MAT.CAL.535"
+}, {
+    "score": 0.2327,
+    "EID": "MAT.CAL.450"
+}, {
+    "score": 0.1916,
+    "EID": "MAT.TRG.650"
+}, {
+    "score": 0.2024,
+    "EID": "MAT.CAL.846"
+}, {
+    "score": 0.4088,
+    "EID": "MAT.CAL.574"
+}, {
+    "score": 0.17,
+    "EID": "MAT.GEO.812"
+}, {
+    "p": true,
+    "score": 0.2466,
+    "EID": "MAT.CAL.636"
+}, {
+    "score": 0.2318,
+    "EID": "MAT.CAL.634"
+}, {
+    "score": 0.2272,
+    "EID": "MAT.CAL.632"
+}, {
+    "score": 0.1799,
+    "EID": "MAT.ALY.614"
+}, {
+    "score": 0.272,
+    "EID": "MAT.CAL.616"
+}, {
+    "score": 0.246,
+    "EID": "MAT.ALY.610"
+}, {
+    "score": 0.2279,
+    "EID": "MAT.ALY.611"
+}, {
+    "score": 0.2568,
+    "EID": "MAT.ALY.612"
+}], "MAT.PRB.730": [{
+    "score": 0.4258,
+    "EID": "MAT.PRB.618"
+}, {
+    "score": 0.3592,
+    "EID": "MAT.PRB.614"
+}, {
+    "score": 0.4771,
+    "EID": "MAT.STA.416.2"
+}, {
+    "score": 0.3394,
+    "EID": "MAT.STA.416.3"
+}, {
+    "score": 0.3509,
+    "EID": "MAT.STA.416.1"
+}, {
+    "score": 0.4034,
+    "EID": "MAT.STA.214"
+}, {
+    "score": 0.4603,
+    "EID": "MAT.STA.432.2"
+}, {
+    "score": 0.3525,
+    "EID": "MAT.STA.424"
+}, {
+    "score": 0.4185,
+    "EID": "MAT.PRB.621"
+}, {
+    "score": 0.384,
+    "EID": "MAT.PRB.624"
+}, {
+    "score": 0.4648,
+    "EID": "MAT.STA.443"
+}, {
+    "score": 0.3362,
+    "EID": "MAT.STA.442"
+}, {
+    "score": 0.4729,
+    "EID": "MAT.PRB.740"
+}, {
+    "score": 0.5835,
+    "EID": "MAT.PRB.720"
+}, {
+    "score": 0.4094,
+    "EID": "MAT.STA.447.1"
+}, {
+    "p": true,
+    "score": 0.6442,
+    "EID": "MAT.STA.432.1"
+}, {
+    "score": 0.3598,
+    "EID": "MAT.PRB.622.1"
+}, {
+    "score": 0.5158,
+    "EID": "MAT.STA.432.3"
+}, {
+    "score": 0.3682,
+    "EID": "MAT.CAL.436"
+}, {
+    "score": 0.3564,
+    "EID": "MAT.PRB.800"
+}, {
+    "score": 0.5989,
+    "EID": "MAT.STA.436"
+}, {
+    "score": 0.6484,
+    "EID": "MAT.STA.432"
+}, {
+    "score": 0.5749,
+    "EID": "MAT.STA.430"
+}], "MAT.GEO.460": [{
+    "score": 0.6454,
+    "EID": "MAT.GEO.420"
+}, {
+    "score": 0.5103,
+    "EID": "MAT.GEO.432"
+}, {
+    "score": 0.6356,
+    "EID": "MAT.GEO.412.1"
+}, {
+    "score": 0.7498,
+    "EID": "MAT.GEO.430"
+}, {
+    "score": 0.4786,
+    "EID": "MAT.GEO.198"
+}, {
+    "score": 0.3932,
+    "EID": "MAT.GEO.834.1"
+}, {
+    "score": 0.4459,
+    "EID": "MAT.GEO.816.2"
+}, {
+    "score": 0.3869,
+    "EID": "MAT.GEO.320"
+}, {
+    "score": 0.3464,
+    "EID": "MAT.GEO.190"
+}, {
+    "score": 0.4043,
+    "EID": "MAT.GEO.330"
+}, {
+    "score": 0.3569,
+    "EID": "MAT.GEO.322"
+}, {
+    "score": 0.475,
+    "EID": "MAT.GEO.812"
+}, {
+    "score": 0.3993,
+    "EID": "MAT.GEO.454"
+}, {
+    "p": true,
+    "score": 0.8444,
+    "EID": "MAT.GEO.440"
+}, {
+    "score": 0.3992,
+    "EID": "MAT.GEO.744"
+}, {
+    "score": 0.7557,
+    "EID": "MAT.GEO.400"
+}, {
+    "score": 0.3443,
+    "EID": "MAT.GEO.532"
+}], "SCI.LSC.823.2": [{
+    "score": 0.0709,
+    "EID": "SCI.LSC.827.2"
+}, {
+    "score": 0.06,
+    "EID": "SCI.ESC.260.1"
+}, {
+    "score": 0.5391,
+    "EID": "SCI.BIO.823"
+}, {
+    "score": 0.0749,
+    "EID": "SCI.BIO.824"
+}, {
+    "score": 0.0709,
+    "EID": "SCI.BIO.921.1"
+}, {
+    "score": 0.0652,
+    "EID": "SCI.BIO.922"
+}, {
+    "score": 0.0572,
+    "EID": "SCI.BIO.114.2"
+}, {
+    "score": 0.0685,
+    "EID": "SCI.BIO.513"
+}, {
+    "score": 0.0597,
+    "EID": "SCI.LSC.936.9"
+}, {
+    "score": 0.0595,
+    "EID": "SCI.ESC.746.3"
+}, {
+    "score": 0.0635,
+    "EID": "SCI.BIO.848.2"
+}, {
+    "score": 0.0708,
+    "EID": "SCI.LSC.116.1"
+}, {
+    "score": 0.0607,
+    "EID": "SCI.BIO.926"
+}, {
+    "score": 0.0778,
+    "EID": "SCI.BIO.816"
+}, {
+    "score": 0.0777,
+    "EID": "SCI.ESC.114.8"
+}, {
+    "score": 0.0687,
+    "EID": "SCI.BIO.112"
+}, {
+    "score": 0.0706,
+    "EID": "SCI.LSC.926.3"
+}, {
+    "score": 0.3229,
+    "EID": "SCI.LSC.823.1"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.423"
+}, {
+    "score": 0.0667,
+    "EID": "SCI.ESC.114.1"
+}, {
+    "score": 0.081,
+    "EID": "SCI.BIO.110.2"
+}, {
+    "score": 0.0682,
+    "EID": "SCI.ESC.835"
+}, {
+    "score": 0.0575,
+    "EID": "SCI.LSC.114"
+}, {
+    "score": 0.0597,
+    "EID": "SCI.ESC.830"
+}, {
+    "score": 0.0832,
+    "EID": "SCI.ESC.831"
+}, {
+    "score": 0.058,
+    "EID": "SCI.ESC.813"
+}], "SCI.CHE.511.2": [{
+    "score": 0.4396,
+    "EID": "SCI.PHY.247"
+}, {
+    "score": 0.2674,
+    "EID": "SCI.CHE.131.6"
+}, {
+    "score": 0.3407,
+    "EID": "SCI.PHY.240"
+}, {
+    "score": 0.4571,
+    "EID": "SCI.PHY.249"
+}, {
+    "score": 0.4907,
+    "EID": "SCI.PHY.247.1"
+}, {
+    "score": 0.2815,
+    "EID": "SCI.PHY.247.2"
+}, {
+    "score": 0.2925,
+    "EID": "SCI.ESC.624.1"
+}, {
+    "score": 0.3475,
+    "EID": "SCI.CHE.513.3"
+}, {
+    "score": 0.3061,
+    "EID": "SCI.PSC.132.5"
+}, {
+    "score": 0.3993,
+    "EID": "SCI.PHY.240.1"
+}, {
+    "score": 0.3481,
+    "EID": "SCI.CHE.513.4"
+}, {
+    "score": 0.2939,
+    "EID": "SCI.BIO.216.1"
+}, {
+    "score": 0.3127,
+    "EID": "SCI.BIO.216.3"
+}, {
+    "score": 0.2761,
+    "EID": "SCI.PSC.223.41"
+}, {
+    "score": 0.3133,
+    "EID": "SCI.CHE.511.1"
+}, {
+    "score": 0.3524,
+    "EID": "SCI.CHE.511.3"
+}, {
+    "score": 0.4182,
+    "EID": "SCI.CHE.511.7"
+}, {
+    "score": 0.3529,
+    "EID": "SCI.CHE.511.6"
+}, {
+    "score": 0.2687,
+    "EID": "SCI.PHY.231"
+}, {
+    "score": 0.292,
+    "EID": "SCI.PHY.234"
+}, {
+    "score": 0.3515,
+    "EID": "SCI.CHE.513.1"
+}, {
+    "score": 0.3549,
+    "EID": "SCI.PSC.224.11"
+}, {
+    "score": 0.3527,
+    "EID": "SCI.ESC.252"
+}, {
+    "score": 0.3654,
+    "EID": "SCI.ESC.624"
+}, {
+    "score": 0.527,
+    "EID": "SCI.ESC.622"
+}, {
+    "score": 0.3627,
+    "EID": "SCI.ESC.621"
+}, {
+    "score": 0.3081,
+    "EID": "SCI.ESC.650"
+}], "MAT.ALG.624.3": [{
+    "score": 0.3466,
+    "EID": "MAT.ALG.626.1"
+}, {
+    "score": 0.3933,
+    "EID": "MAT.ALG.912"
+}, {
+    "score": 0.464,
+    "EID": "MAT.ALG.815.1"
+}, {
+    "score": 0.6441,
+    "EID": "MAT.ALG.914"
+}, {
+    "score": 0.7416,
+    "EID": "MAT.ALG.624.1"
+}, {
+    "score": 0.3821,
+    "EID": "MAT.ALG.831"
+}, {
+    "score": 0.35,
+    "EID": "MAT.ALG.626.2"
+}, {
+    "score": 0.3931,
+    "EID": "MAT.ALG.800"
+}, {
+    "score": 0.3934,
+    "EID": "MAT.ALY.212"
+}, {
+    "score": 0.5843,
+    "EID": "MAT.ALG.914.2"
+}, {
+    "score": 0.4152,
+    "EID": "MAT.ALG.624.2"
+}, {
+    "score": 0.4365,
+    "EID": "MAT.ALG.628"
+}, {
+    "score": 0.4251,
+    "EID": "MAT.ALG.634"
+}, {
+    "score": 0.4562,
+    "EID": "MAT.ALG.626"
+}, {
+    "p": true,
+    "EID": "MAT.ALG.624"
+}, {
+    "score": 0.4033,
+    "EID": "MAT.ALG.622"
+}, {
+    "score": 0.454,
+    "EID": "MAT.ALG.632"
+}, {
+    "score": 0.4872,
+    "EID": "MAT.ALG.620"
+}], "MAT.ALG.624.2": [{
+    "score": 0.2464,
+    "EID": "MAT.ALG.720"
+}, {
+    "score": 0.4152,
+    "EID": "MAT.ALG.624.3"
+}, {
+    "score": 0.6368,
+    "EID": "MAT.ALG.624.1"
+}, {
+    "score": 0.391,
+    "EID": "MAT.ALG.626.2"
+}, {
+    "score": 0.4017,
+    "EID": "MAT.ALY.250"
+}, {
+    "score": 0.3072,
+    "EID": "MAT.ALY.251"
+}, {
+    "score": 0.5293,
+    "EID": "MAT.ALY.212"
+}, {
+    "score": 0.3513,
+    "EID": "MAT.ALG.626.1"
+}, {
+    "score": 0.2515,
+    "EID": "MAT.ALG.629"
+}, {
+    "score": 0.4087,
+    "EID": "MAT.ALG.628"
+}, {
+    "score": 0.369,
+    "EID": "MAT.ALG.634"
+}, {
+    "p": true,
+    "score": 0.5286,
+    "EID": "MAT.ALG.626"
+}, {
+    "score": 0.2972,
+    "EID": "MAT.ALG.624"
+}, {
+    "score": 0.417,
+    "EID": "MAT.ALG.622"
+}, {
+    "score": 0.3239,
+    "EID": "MAT.ALG.632"
+}, {
+    "score": 0.5088,
+    "EID": "MAT.ALG.620"
+}], "MAT.ALG.624.1": [{
+    "score": 0.3405,
+    "EID": "MAT.ALG.912"
+}, {
+    "score": 0.6419,
+    "EID": "MAT.ALG.624.3"
+}, {
+    "score": 0.5304,
+    "EID": "MAT.ALG.624.2"
+}, {
+    "score": 0.344,
+    "EID": "MAT.ALG.831"
+}, {
+    "score": 0.3743,
+    "EID": "MAT.ALG.628"
+}, {
+    "score": 0.3539,
+    "EID": "MAT.ALY.250"
+}, {
+    "score": 0.4004,
+    "EID": "MAT.ALG.800"
+}, {
+    "score": 0.4765,
+    "EID": "MAT.ALY.212"
+}, {
+    "score": 0.4663,
+    "EID": "MAT.ALG.914.2"
+}, {
+    "score": 0.4163,
+    "EID": "MAT.ALG.815.1"
+}, {
+    "score": 0.5214,
+    "EID": "MAT.ALG.626.2"
+}, {
+    "score": 0.513,
+    "EID": "MAT.ALG.634"
+}, {
+    "p": true,
+    "score": 0.5665,
+    "EID": "MAT.ALG.626"
+}, {
+    "score": 0.4627,
+    "EID": "MAT.ALG.620"
+}, {
+    "score": 0.3665,
+    "EID": "MAT.ALG.622"
+}, {
+    "score": 0.5038,
+    "EID": "MAT.ALG.914"
+}], "SCI.ESC.652.1": [{
+    "score": 0.3181,
+    "EID": "SCI.BIO.516.1"
+}, {
+    "score": 0.2784,
+    "EID": "SCI.ESC.416"
+}, {
+    "p": true,
+    "EID": "SCI.LSC.510.3"
+}, {
+    "score": 0.1976,
+    "EID": "SCI.ESC.656"
+}, {
+    "score": 0.2092,
+    "EID": "SCI.ESC.652.2"
+}, {
+    "score": 0.8029,
+    "EID": "SCI.ESC.652.4"
+}, {
+    "score": 0.2398,
+    "EID": "SCI.ESC.672"
+}, {
+    "score": 0.1939,
+    "EID": "SCI.ESC.654"
+}, {
+    "score": 0.2922,
+    "EID": "SCI.ESC.678"
+}, {
+    "score": 0.266,
+    "EID": "SCI.BIO.529"
+}, {
+    "score": 0.5468,
+    "EID": "SCI.ESC.662"
+}, {
+    "score": 0.2538,
+    "EID": "SCI.ESC.684.1"
+}, {
+    "score": 0.2687,
+    "EID": "SCI.ESC.674"
+}, {
+    "score": 0.5176,
+    "EID": "SCI.ESC.666"
+}, {
+    "score": 0.4399,
+    "EID": "SCI.ESC.676"
+}, {
+    "score": 0.4201,
+    "EID": "SCI.ESC.664"
+}, {
+    "score": 0.357,
+    "EID": "SCI.ESC.681"
+}, {
+    "score": 0.2003,
+    "EID": "SCI.ESC.695"
+}, {
+    "score": 0.1839,
+    "EID": "SCI.ESC.685"
+}, {
+    "score": 0.2204,
+    "EID": "SCI.ESC.693"
+}, {
+    "score": 0.3592,
+    "EID": "SCI.ESC.691"
+}], "SCI.ESC.652.2": [{
+    "score": 0.2035,
+    "EID": "SCI.ESC.614.3"
+}, {
+    "score": 0.2281,
+    "EID": "SCI.ESC.658.1"
+}, {
+    "score": 0.1933,
+    "EID": "SCI.ESC.511.2"
+}, {
+    "score": 0.2425,
+    "EID": "SCI.ESC.511.3"
+}, {
+    "p": true,
+    "score": 0.2266,
+    "EID": "SCI.ESC.652.4"
+}, {
+    "score": 0.1921,
+    "EID": "SCI.BIO.910.2"
+}, {
+    "score": 0.3494,
+    "EID": "SCI.ESC.652.3"
+}, {
+    "score": 0.3457,
+    "EID": "SCI.ESC.656"
+}, {
+    "score": 0.4611,
+    "EID": "SCI.ESC.652.5"
+}, {
+    "score": 0.5448,
+    "EID": "SCI.ESC.652.6"
+}, {
+    "score": 0.1861,
+    "EID": "SCI.ESC.614.1"
+}, {
+    "score": 0.2915,
+    "EID": "SCI.ESC.616.1"
+}, {
+    "score": 0.2171,
+    "EID": "SCI.ESC.616.2"
+}, {
+    "score": 0.2254,
+    "EID": "SCI.ESC.616.3"
+}, {
+    "score": 0.3103,
+    "EID": "SCI.ESC.654"
+}, {
+    "score": 0.2092,
+    "EID": "SCI.ESC.652.1"
+}, {
+    "score": 0.2039,
+    "EID": "SCI.ESC.632"
+}, {
+    "score": 0.3734,
+    "EID": "SCI.PSC.141.25"
+}, {
+    "score": 0.2336,
+    "EID": "SCI.BIO.218.1"
+}, {
+    "score": 0.2507,
+    "EID": "SCI.PSC.141.35"
+}], "SCI.ESC.652.3": [{
+    "score": 0.2546,
+    "EID": "SCI.ESC.658.1"
+}, {
+    "score": 0.2203,
+    "EID": "SCI.ESC.511.3"
+}, {
+    "score": 0.1478,
+    "EID": "SCI.ESC.662"
+}, {
+    "score": 0.1863,
+    "EID": "SCI.BIO.515.1"
+}, {
+    "score": 0.3494,
+    "EID": "SCI.ESC.652.2"
+}, {
+    "score": 0.1656,
+    "EID": "SCI.ESC.658.5"
+}, {
+    "score": 0.2345,
+    "EID": "SCI.ESC.656"
+}, {
+    "p": true,
+    "score": 0.2173,
+    "EID": "SCI.ESC.652.5"
+}, {
+    "score": 0.1777,
+    "EID": "SCI.ESC.654"
+}, {
+    "score": 0.1477,
+    "EID": "SCI.ESC.644"
+}, {
+    "score": 0.235,
+    "EID": "SCI.ESC.642.2"
+}, {
+    "score": 0.1795,
+    "EID": "SCI.BIO.516.1"
+}, {
+    "score": 0.1545,
+    "EID": "SCI.ESC.674"
+}, {
+    "score": 0.1581,
+    "EID": "SCI.ESC.616.3"
+}, {
+    "score": 0.1726,
+    "EID": "SCI.LSC.528.4"
+}, {
+    "score": 0.1989,
+    "EID": "SCI.ESC.678"
+}, {
+    "score": 0.1407,
+    "EID": "SCI.BIO.218.1"
+}, {
+    "score": 0.1438,
+    "EID": "SCI.ESC.632"
+}, {
+    "score": 0.3072,
+    "EID": "SCI.PSC.141.25"
+}, {
+    "score": 0.191,
+    "EID": "SCI.BIO.528.3"
+}, {
+    "score": 0.208,
+    "EID": "SCI.PSC.141.35"
+}], "SCI.ESC.652.4": [{
+    "score": 0.1779,
+    "EID": "SCI.ESC.120.1"
+}, {
+    "score": 0.2357,
+    "EID": "SCI.BIO.516.1"
+}, {
+    "score": 0.2528,
+    "EID": "SCI.ESC.654"
+}, {
+    "score": 0.2903,
+    "EID": "SCI.ESC.612"
+}, {
+    "score": 0.2877,
+    "EID": "SCI.ESC.656"
+}, {
+    "score": 0.1919,
+    "EID": "SCI.ESC.632"
+}, {
+    "score": 0.1806,
+    "EID": "SCI.ESC.616.1"
+}, {
+    "score": 0.24,
+    "EID": "SCI.ESC.616.3"
+}, {
+    "score": 0.2541,
+    "EID": "SCI.ESC.674"
+}, {
+    "score": 0.2727,
+    "EID": "SCI.ESC.416"
+}, {
+    "score": 0.2253,
+    "EID": "SCI.ESC.678"
+}, {
+    "score": 0.2223,
+    "EID": "SCI.ESC.691"
+}, {
+    "score": 0.1794,
+    "EID": "SCI.ESC.614.1"
+}, {
+    "score": 0.303,
+    "EID": "SCI.ESC.676"
+}, {
+    "score": 0.1783,
+    "EID": "SCI.BIO.529"
+}, {
+    "score": 0.8029,
+    "EID": "SCI.ESC.652.1"
+}, {
+    "score": 0.2266,
+    "EID": "SCI.ESC.652.2"
+}, {
+    "score": 0.7019,
+    "EID": "SCI.ESC.662"
+}, {
+    "score": 0.6645,
+    "EID": "SCI.ESC.666"
+}, {
+    "score": 0.548,
+    "EID": "SCI.ESC.664"
+}, {
+    "score": 0.2213,
+    "EID": "SCI.ESC.681"
+}, {
+    "p": true,
+    "EID": "SCI.ESC.300.6"
+}], "SCI.ESC.652.5": [{
+    "score": 0.1414,
+    "EID": "SCI.PHY.247"
+}, {
+    "score": 0.1895,
+    "EID": "SCI.ESC.511.3"
+}, {
+    "score": 0.1329,
+    "EID": "SCI.BIO.516.1"
+}, {
+    "score": 0.1424,
+    "EID": "SCI.PSC.224.4"
+}, {
+    "score": 0.4503,
+    "EID": "SCI.PSC.141.25"
+}, {
+    "score": 0.1385,
+    "EID": "SCI.PHY.240.1"
+}, {
+    "score": 0.1509,
+    "EID": "SCI.BIO.218"
+}, {
+    "score": 0.1775,
+    "EID": "SCI.CHE.431.3"
+}, {
+    "score": 0.1488,
+    "EID": "SCI.ESC.656"
+}, {
+    "score": 0.2761,
+    "EID": "SCI.ESC.654"
+}, {
+    "score": 0.4377,
+    "EID": "SCI.ESC.616.1"
+}, {
+    "score": 0.1456,
+    "EID": "SCI.ESC.616.2"
+}, {
+    "score": 0.2075,
+    "EID": "SCI.ESC.616.3"
+}, {
+    "score": 0.1427,
+    "EID": "SCI.BIO.218.1"
+}, {
+    "score": 0.1615,
+    "EID": "SCI.CHE.412.6"
+}, {
+    "score": 0.1508,
+    "EID": "SCI.ESC.614.1"
+}, {
+    "score": 0.1677,
+    "EID": "SCI.CHE.412.3"
+}, {
+    "score": 0.1566,
+    "EID": "SCI.CHE.412.2"
+}, {
+    "score": 0.1473,
+    "EID": "SCI.BIO.515.1"
+}, {
+    "score": 0.1388,
+    "EID": "SCI.PSC.141.35"
+}, {
+    "score": 0.1737,
+    "EID": "SCI.ESC.652.1"
+}, {
+    "score": 0.4611,
+    "EID": "SCI.ESC.652.2"
+}, {
+    "score": 0.2173,
+    "EID": "SCI.ESC.652.3"
+}, {
+    "score": 0.1527,
+    "EID": "SCI.ESC.652.4"
+}, {
+    "score": 0.1618,
+    "EID": "SCI.ESC.622"
+}], "SCI.ESC.652.6": [{
+    "score": 0.069,
+    "EID": "SCI.BIO.910.2"
+}, {
+    "score": 0.0756,
+    "EID": "SCI.PSC.155.2"
+}, {
+    "score": 0.0832,
+    "EID": "SCI.ESC.632"
+}, {
+    "score": 0.1711,
+    "EID": "SCI.PSC.141.25"
+}, {
+    "score": 0.0826,
+    "EID": "SCI.CHE.616.2"
+}, {
+    "score": 0.0788,
+    "EID": "SCI.ESC.634"
+}, {
+    "score": 0.1134,
+    "EID": "SCI.ESC.656"
+}, {
+    "score": 0.0923,
+    "EID": "SCI.ESC.654"
+}, {
+    "score": 0.0708,
+    "EID": "SCI.ESC.616.2"
+}, {
+    "score": 0.0823,
+    "EID": "SCI.ESC.616.3"
+}, {
+    "score": 0.1905,
+    "EID": "SCI.ESC.676"
+}, {
+    "score": 0.0703,
+    "EID": "SCI.ESC.614.1"
+}, {
+    "score": 0.24,
+    "EID": "SCI.PSC.141.4"
+}, {
+    "score": 0.1234,
+    "EID": "SCI.PSC.141.34"
+}, {
+    "score": 0.0799,
+    "EID": "SCI.ESC.652.1"
+}, {
+    "score": 0.5448,
+    "EID": "SCI.ESC.652.2"
+}, {
+    "score": 0.0917,
+    "EID": "SCI.ESC.652.3"
+}, {
+    "score": 0.0781,
+    "EID": "SCI.ESC.652.4"
+}, {
+    "p": true,
+    "score": 0.1165,
+    "EID": "SCI.ESC.652.5"
+}, {
+    "score": 0.073,
+    "EID": "SCI.ESC.644"
+}, {
+    "score": 0.0918,
+    "EID": "SCI.ESC.641"
+}, {
+    "score": 0.0799,
+    "EID": "SCI.LSC.531.1"
+}, {
+    "score": 0.0825,
+    "EID": "SCI.ESC.545.1"
+}], "SCI.PSC.243.4": [{
+    "score": 0.2864,
+    "EID": "SCI.PSC.243.12"
+}, {
+    "score": 0.2861,
+    "EID": "SCI.PSC.243.5"
+}, {
+    "score": 0.5625,
+    "EID": "SCI.PSC.243.2"
+}, {
+    "score": 0.2598,
+    "EID": "SCI.PSC.243.53"
+}, {
+    "score": 0.3863,
+    "EID": "SCI.PHY.441"
+}, {
+    "score": 0.3175,
+    "EID": "SCI.PHY.443"
+}, {
+    "score": 0.3578,
+    "EID": "SCI.PHY.442"
+}, {
+    "score": 0.4359,
+    "EID": "SCI.PHY.445"
+}, {
+    "score": 0.3659,
+    "EID": "SCI.PHY.444"
+}, {
+    "score": 0.4401,
+    "EID": "SCI.PSC.243.11"
+}, {
+    "score": 0.3747,
+    "EID": "SCI.PHY.446"
+}, {
+    "score": 0.351,
+    "EID": "SCI.PHY.466"
+}, {
+    "score": 0.2651,
+    "EID": "SCI.PHY.464"
+}, {
+    "score": 0.3798,
+    "EID": "SCI.PHY.462"
+}, {
+    "score": 0.3554,
+    "EID": "MAT.ALG.766.3"
+}, {
+    "score": 0.3554,
+    "EID": "MAT.ALG.766.4"
+}, {
+    "score": 0.4249,
+    "EID": "SCI.PHY.435.8"
+}, {
+    "score": 0.2924,
+    "EID": "SCI.PHY.435.7"
+}, {
+    "score": 0.3079,
+    "EID": "SCI.PSC.246.61"
+}, {
+    "score": 0.3144,
+    "EID": "SCI.PHY.456"
+}, {
+    "score": 0.2971,
+    "EID": "SCI.PHY.457"
+}, {
+    "score": 0.3164,
+    "EID": "SCI.PSC.245.3"
+}, {
+    "score": 0.2948,
+    "EID": "SCI.PSC.246"
+}, {
+    "score": 0.3887,
+    "EID": "SCI.PSC.243.21"
+}, {
+    "score": 0.5219,
+    "EID": "SCI.PHY.430"
+}, {
+    "score": 0.393,
+    "EID": "SCI.PHY.431"
+}], "MAT.ALG.626.1": [{
+    "score": 0.3126,
+    "EID": "MAT.ALY.424"
+}, {
+    "score": 0.3466,
+    "EID": "MAT.ALG.624.3"
+}, {
+    "score": 0.3513,
+    "EID": "MAT.ALG.624.2"
+}, {
+    "score": 0.4087,
+    "EID": "MAT.ALG.624.1"
+}, {
+    "score": 0.3295,
+    "EID": "MAT.ALG.916"
+}, {
+    "score": 0.5337,
+    "EID": "MAT.ALG.628"
+}, {
+    "score": 0.3168,
+    "EID": "MAT.ALY.250"
+}, {
+    "score": 0.2872,
+    "EID": "MAT.ALY.251"
+}, {
+    "score": 0.4187,
+    "EID": "MAT.ALY.212"
+}, {
+    "score": 0.2905,
+    "EID": "MAT.ALG.618"
+}, {
+    "score": 0.4236,
+    "EID": "MAT.ALG.626.2"
+}, {
+    "score": 0.4013,
+    "EID": "MAT.ALG.634"
+}, {
+    "p": true,
+    "score": 0.7944,
+    "EID": "MAT.ALG.626"
+}, {
+    "score": 0.4736,
+    "EID": "MAT.ALG.622"
+}, {
+    "score": 0.3384,
+    "EID": "MAT.ALG.632"
+}, {
+    "score": 0.5392,
+    "EID": "MAT.ALG.620"
+}], "MAT.ALG.626.2": [{
+    "score": 0.3706,
+    "EID": "MAT.TRG.324"
+}, {
+    "score": 0.4066,
+    "EID": "MAT.ALG.720"
+}, {
+    "score": 0.391,
+    "EID": "MAT.ALG.624.2"
+}, {
+    "score": 0.5214,
+    "EID": "MAT.ALG.624.1"
+}, {
+    "score": 0.3974,
+    "EID": "MAT.ALY.424"
+}, {
+    "score": 0.3668,
+    "EID": "MAT.ALG.916"
+}, {
+    "score": 0.4517,
+    "EID": "MAT.ALY.250"
+}, {
+    "score": 0.3709,
+    "EID": "MAT.ALY.251"
+}, {
+    "p": true,
+    "EID": "MAT.ALG.616"
+}, {
+    "score": 0.5717,
+    "EID": "MAT.ALY.212"
+}, {
+    "score": 0.4236,
+    "EID": "MAT.ALG.626.1"
+}, {
+    "score": 0.4587,
+    "EID": "MAT.ALG.628"
+}, {
+    "score": 0.6381,
+    "EID": "MAT.ALG.634"
+}, {
+    "score": 0.7945,
+    "EID": "MAT.ALG.626"
+}, {
+    "score": 0.4324,
+    "EID": "MAT.ALG.622"
+}, {
+    "score": 0.3714,
+    "EID": "MAT.ALG.632"
+}, {
+    "score": 0.4195,
+    "EID": "MAT.ALG.620"
+}], "SCI.PSC.122.37": [{
+    "score": 0.3276,
+    "EID": "SCI.CHE.264.2"
+}, {
+    "score": 0.353,
+    "EID": "SCI.CHE.231.6"
+}, {
+    "score": 0.314,
+    "EID": "SCI.ESC.212"
+}, {
+    "score": 0.3876,
+    "EID": "SCI.PSC.126"
+}, {
+    "score": 0.4093,
+    "EID": "SCI.PSC.123.28"
+}, {
+    "score": 0.3206,
+    "EID": "SCI.CHE.261.8"
+}, {
+    "score": 0.4842,
+    "EID": "SCI.CHE.251.2"
+}, {
+    "score": 0.3901,
+    "EID": "SCI.CHE.251.3"
+}, {
+    "score": 0.4007,
+    "EID": "SCI.PSC.171.1"
+}, {
+    "score": 0.3218,
+    "EID": "SCI.PSC.241.2"
+}, {
+    "score": 0.4914,
+    "EID": "SCI.CHE.261.3"
+}, {
+    "score": 0.3682,
+    "EID": "SCI.CHE.261.2"
+}, {
+    "score": 0.3062,
+    "EID": "SCI.PSC.123.23"
+}, {
+    "score": 0.3089,
+    "EID": "SCI.LSC.210"
+}, {
+    "score": 0.4995,
+    "EID": "SCI.PSC.125.21"
+}, {
+    "score": 0.4264,
+    "EID": "SCI.PSC.122.21"
+}, {
+    "score": 0.5467,
+    "EID": "SCI.CHE.212.2"
+}, {
+    "score": 0.3163,
+    "EID": "SCI.CHE.233.6"
+}, {
+    "score": 0.4568,
+    "EID": "SCI.CHE.232.2"
+}, {
+    "score": 0.3364,
+    "EID": "SCI.CHE.233.5"
+}, {
+    "score": 0.4231,
+    "EID": "SCI.CHE.233.3"
+}, {
+    "score": 0.3714,
+    "EID": "SCI.CHE.232.4"
+}, {
+    "score": 0.3416,
+    "EID": "SCI.PSC.125.1"
+}, {
+    "score": 0.7604,
+    "EID": "SCI.CHE.251.1"
+}, {
+    "score": 0.4191,
+    "EID": "SCI.PSC.112.33"
+}], "MAT.ALG.951": [{
+    "score": 0.1718,
+    "EID": "MAT.ALG.530"
+}, {
+    "score": 0.8556,
+    "EID": "MAT.ALG.952.31"
+}, {
+    "score": 0.1171,
+    "EID": "MAT.PRB.370"
+}, {
+    "score": 0.6514,
+    "EID": "MAT.ALG.955"
+}, {
+    "score": 0.4015,
+    "EID": "MAT.ALG.954"
+}, {
+    "score": 0.406,
+    "EID": "MAT.ALG.957"
+}, {
+    "score": 0.1369,
+    "EID": "MAT.ALG.957.1"
+}, {
+    "score": 0.5521,
+    "EID": "MAT.ALG.953"
+}, {
+    "score": 0.7451,
+    "EID": "MAT.ALG.952"
+}, {
+    "p": true,
+    "EID": "MAT.ALG.517"
+}, {
+    "score": 0.0875,
+    "EID": "MAT.ALG.261"
+}, {
+    "score": 0.1005,
+    "EID": "MAT.STA.526.1"
+}, {
+    "score": 0.7105,
+    "EID": "MAT.ALG.956"
+}, {
+    "score": 0.6058,
+    "EID": "MAT.ALG.955.1"
+}, {
+    "score": 0.6001,
+    "EID": "MAT.ALG.955.2"
+}, {
+    "score": 0.5916,
+    "EID": "MAT.ALG.955.3"
+}, {
+    "score": 0.8125,
+    "EID": "MAT.ALG.952.3"
+}, {
+    "score": 0.4502,
+    "EID": "MAT.ALG.952.2"
+}, {
+    "score": 0.6905,
+    "EID": "MAT.ALG.952.1"
+}, {
+    "score": 0.6782,
+    "EID": "MAT.ALG.955.12"
+}, {
+    "score": 0.5374,
+    "EID": "MAT.ALG.955.11"
+}], "SCI.PSC.243.2": [{
+    "score": 0.2527,
+    "EID": "SCI.PSC.243.5"
+}, {
+    "score": 0.2315,
+    "EID": "SCI.PHY.450"
+}, {
+    "score": 0.2366,
+    "EID": "SCI.PSC.243.53"
+}, {
+    "score": 0.3061,
+    "EID": "SCI.PHY.441"
+}, {
+    "score": 0.3081,
+    "EID": "SCI.PHY.443"
+}, {
+    "score": 0.4084,
+    "EID": "SCI.PHY.445"
+}, {
+    "score": 0.2609,
+    "EID": "SCI.PHY.444"
+}, {
+    "score": 0.2766,
+    "EID": "SCI.PSC.243.11"
+}, {
+    "score": 0.3132,
+    "EID": "SCI.PHY.446"
+}, {
+    "score": 0.2443,
+    "EID": "SCI.PHY.466"
+}, {
+    "score": 0.3316,
+    "EID": "SCI.PHY.462"
+}, {
+    "score": 0.3215,
+    "EID": "SCI.PHY.461"
+}, {
+    "score": 0.329,
+    "EID": "MAT.ALG.766.3"
+}, {
+    "score": 0.329,
+    "EID": "MAT.ALG.766.4"
+}, {
+    "score": 0.4381,
+    "EID": "SCI.PHY.435.8"
+}, {
+    "score": 0.3987,
+    "EID": "SCI.PHY.435.7"
+}, {
+    "score": 0.2366,
+    "EID": "SCI.PSC.246.61"
+}, {
+    "score": 0.293,
+    "EID": "SCI.PHY.456"
+}, {
+    "score": 0.2948,
+    "EID": "SCI.PHY.457"
+}, {
+    "score": 0.2838,
+    "EID": "SCI.PSC.245.3"
+}, {
+    "score": 0.2413,
+    "EID": "SCI.PSC.246"
+}, {
+    "score": 0.4915,
+    "EID": "SCI.PSC.243.21"
+}, {
+    "score": 0.369,
+    "EID": "SCI.PHY.430"
+}, {
+    "score": 0.3715,
+    "EID": "SCI.PHY.431"
+}, {
+    "score": 0.5621,
+    "EID": "SCI.PHY.434"
+}], "SCI.LSC.236.3": [{
+    "score": 0.3364,
+    "EID": "SCI.PSC.182.1"
+}, {
+    "score": 0.7417,
+    "EID": "SCI.PSC.182.2"
+}, {
+    "score": 0.5683,
+    "EID": "SCI.LSC.236.2"
+}, {
+    "score": 0.4701,
+    "EID": "SCI.LSC.726.1"
+}, {
+    "score": 0.3051,
+    "EID": "SCI.BIO.413"
+}, {
+    "score": 0.5172,
+    "EID": "SCI.BIO.239"
+}, {
+    "score": 0.2882,
+    "EID": "SCI.BIO.238"
+}, {
+    "score": 0.2743,
+    "EID": "SCI.BIO.237"
+}, {
+    "score": 0.6694,
+    "EID": "SCI.BIO.236"
+}, {
+    "score": 0.5321,
+    "EID": "SCI.BIO.231"
+}, {
+    "score": 0.2999,
+    "EID": "SCI.BIO.231.1"
+}, {
+    "score": 0.2666,
+    "EID": "SCI.BIO.231.2"
+}, {
+    "score": 0.3666,
+    "EID": "SCI.BIO.231.3"
+}, {
+    "score": 0.2903,
+    "EID": "SCI.PSC.182"
+}, {
+    "score": 0.3344,
+    "EID": "SCI.ESC.696"
+}, {
+    "score": 0.4471,
+    "EID": "SCI.LSC.233"
+}, {
+    "score": 0.4366,
+    "EID": "SCI.BIO.239.2"
+}, {
+    "score": 0.6128,
+    "EID": "SCI.BIO.934"
+}, {
+    "score": 0.2974,
+    "EID": "SCI.BIO.515.2"
+}, {
+    "score": 0.6878,
+    "EID": "SCI.BIO.236.4"
+}, {
+    "score": 0.4177,
+    "EID": "SCI.BIO.236.1"
+}, {
+    "score": 0.2857,
+    "EID": "SCI.LSC.935"
+}, {
+    "score": 0.2783,
+    "EID": "SCI.ESC.612"
+}], "SCI.LSC.236.2": [{
+    "score": 0.422,
+    "EID": "SCI.BIO.239.2"
+}, {
+    "score": 0.6364,
+    "EID": "SCI.PSC.182.2"
+}, {
+    "score": 0.5683,
+    "EID": "SCI.LSC.236.3"
+}, {
+    "score": 0.6387,
+    "EID": "SCI.BIO.238"
+}, {
+    "score": 0.4516,
+    "EID": "SCI.BIO.934"
+}, {
+    "score": 0.271,
+    "EID": "SCI.BIO.234"
+}, {
+    "score": 0.6855,
+    "EID": "SCI.BIO.237"
+}, {
+    "score": 0.7163,
+    "EID": "SCI.BIO.236"
+}, {
+    "score": 0.4248,
+    "EID": "SCI.BIO.231"
+}, {
+    "score": 0.2771,
+    "EID": "SCI.BIO.231.1"
+}, {
+    "score": 0.4419,
+    "EID": "SCI.BIO.231.2"
+}, {
+    "score": 0.2643,
+    "EID": "SCI.BIO.227.1"
+}, {
+    "score": 0.5356,
+    "EID": "SCI.BIO.236.5"
+}, {
+    "score": 0.7181,
+    "EID": "SCI.BIO.236.4"
+}, {
+    "score": 0.2596,
+    "EID": "SCI.LSC.935"
+}, {
+    "score": 0.7666,
+    "EID": "SCI.BIO.236.1"
+}, {
+    "score": 0.3706,
+    "EID": "SCI.BIO.239.3"
+}, {
+    "score": 0.3632,
+    "EID": "SCI.BIO.227.8"
+}, {
+    "score": 0.564,
+    "EID": "SCI.BIO.239"
+}, {
+    "score": 0.2576,
+    "EID": "SCI.LSC.233"
+}, {
+    "score": 0.2551,
+    "EID": "SCI.LSC.239.1"
+}], "SCI.BIO.619": [{
+    "score": 0.2182,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.1888,
+    "EID": "SCI.BIO.220.1"
+}, {
+    "score": 0.1967,
+    "EID": "SCI.BIO.242.2"
+}, {
+    "score": 0.1678,
+    "EID": "SCI.BIO.114.2"
+}, {
+    "p": true,
+    "score": 0.3501,
+    "EID": "SCI.BIO.618"
+}, {
+    "score": 0.3341,
+    "EID": "SCI.BIO.617"
+}, {
+    "score": 0.4917,
+    "EID": "SCI.BIO.616"
+}, {
+    "score": 0.5664,
+    "EID": "SCI.BIO.614"
+}, {
+    "score": 0.5894,
+    "EID": "SCI.BIO.223.1"
+}, {
+    "score": 0.492,
+    "EID": "SCI.LSC.338.4"
+}, {
+    "score": 0.204,
+    "EID": "SCI.LSC.338.1"
+}, {
+    "score": 0.2633,
+    "EID": "SCI.BIO.329"
+}, {
+    "score": 0.1887,
+    "EID": "SCI.BIO.324"
+}, {
+    "score": 0.1728,
+    "EID": "SCI.BIO.322"
+}, {
+    "score": 0.2247,
+    "EID": "SCI.BIO.338.7"
+}, {
+    "score": 0.3584,
+    "EID": "SCI.BIO.336.3"
+}, {
+    "score": 0.1703,
+    "EID": "SCI.BIO.335.3"
+}, {
+    "score": 0.1795,
+    "EID": "SCI.LSC.116.1"
+}, {
+    "score": 0.3376,
+    "EID": "SCI.BIO.615.2"
+}, {
+    "score": 0.4655,
+    "EID": "SCI.BIO.615.3"
+}, {
+    "score": 0.3891,
+    "EID": "SCI.BIO.615.1"
+}, {
+    "score": 0.1675,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.1967,
+    "EID": "SCI.BIO.329.5"
+}, {
+    "score": 0.1796,
+    "EID": "SCI.BIO.328.5"
+}, {
+    "score": 0.2295,
+    "EID": "SCI.BIO.329.1"
+}, {
+    "score": 0.1789,
+    "EID": "SCI.BIO.337"
+}, {
+    "score": 0.1675,
+    "EID": "SCI.BIO.426"
+}, {
+    "score": 0.1745,
+    "EID": "SCI.LSC.241"
+}], "SCI.BIO.618": [{
+    "score": 0.2642,
+    "EID": "SCI.BIO.946"
+}, {
+    "score": 0.1264,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.3501,
+    "EID": "SCI.BIO.619"
+}, {
+    "score": 0.1316,
+    "EID": "SCI.BIO.925"
+}, {
+    "score": 0.3274,
+    "EID": "SCI.BIO.616"
+}, {
+    "score": 0.4078,
+    "EID": "SCI.BIO.614"
+}, {
+    "score": 0.3701,
+    "EID": "SCI.BIO.223.1"
+}, {
+    "score": 0.2625,
+    "EID": "SCI.BIO.948"
+}, {
+    "score": 0.1286,
+    "EID": "SCI.LSC.947"
+}, {
+    "score": 0.1475,
+    "EID": "SCI.BIO.947.1"
+}, {
+    "score": 0.1507,
+    "EID": "SCI.LSC.934.4"
+}, {
+    "score": 0.1522,
+    "EID": "SCI.LSC.934.3"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.321"
+}, {
+    "score": 0.1189,
+    "EID": "SCI.BIO.338.7"
+}, {
+    "score": 0.1201,
+    "EID": "SCI.BIO.336.3"
+}, {
+    "p": true,
+    "score": 0.3381,
+    "EID": "SCI.BIO.617"
+}, {
+    "score": 0.2769,
+    "EID": "SCI.BIO.615.2"
+}, {
+    "score": 0.3642,
+    "EID": "SCI.BIO.615.3"
+}, {
+    "score": 0.3084,
+    "EID": "SCI.BIO.615.1"
+}, {
+    "score": 0.119,
+    "EID": "SCI.BIO.926"
+}, {
+    "p": true,
+    "score": 0.3359,
+    "EID": "SCI.BIO.617.1"
+}, {
+    "score": 0.2339,
+    "EID": "SCI.BIO.959.2"
+}, {
+    "score": 0.231,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.1535,
+    "EID": "SCI.LSC.941.1"
+}, {
+    "score": 0.2198,
+    "EID": "SCI.LSC.959"
+}, {
+    "score": 0.1282,
+    "EID": "SCI.LSC.943.1"
+}, {
+    "score": 0.179,
+    "EID": "SCI.LSC.926.1"
+}], "SCI.BIO.617": [{
+    "score": 0.1502,
+    "EID": "SCI.LSC.918.1"
+}, {
+    "score": 0.1466,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.3341,
+    "EID": "SCI.BIO.619"
+}, {
+    "score": 0.3381,
+    "EID": "SCI.BIO.618"
+}, {
+    "score": 0.4095,
+    "EID": "SCI.BIO.616"
+}, {
+    "score": 0.5494,
+    "EID": "SCI.BIO.614"
+}, {
+    "p": true,
+    "score": 0.1585,
+    "EID": "SCI.BIO.613"
+}, {
+    "score": 0.2099,
+    "EID": "SCI.BIO.948"
+}, {
+    "score": 0.1954,
+    "EID": "SCI.LSC.934.4"
+}, {
+    "score": 0.2871,
+    "EID": "SCI.LSC.934.3"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.323"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.215"
+}, {
+    "score": 0.2245,
+    "EID": "SCI.BIO.617.1"
+}, {
+    "score": 0.4788,
+    "EID": "SCI.BIO.615.2"
+}, {
+    "score": 0.4048,
+    "EID": "SCI.BIO.615.3"
+}, {
+    "score": 0.4803,
+    "EID": "SCI.BIO.615.1"
+}, {
+    "score": 0.1405,
+    "EID": "SCI.ESC.514.1"
+}, {
+    "score": 0.163,
+    "EID": "SCI.BIO.926"
+}, {
+    "score": 0.5733,
+    "EID": "SCI.BIO.223.1"
+}, {
+    "score": 0.2638,
+    "EID": "SCI.BIO.959.2"
+}, {
+    "score": 0.1681,
+    "EID": "SCI.BIO.628"
+}, {
+    "score": 0.1643,
+    "EID": "SCI.LSC.940.2"
+}, {
+    "score": 0.3996,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.1349,
+    "EID": "SCI.LSC.941.2"
+}, {
+    "score": 0.1663,
+    "EID": "SCI.LSC.941.1"
+}, {
+    "score": 0.2614,
+    "EID": "SCI.LSC.959"
+}, {
+    "score": 0.1779,
+    "EID": "SCI.LSC.926.1"
+}, {
+    "score": 0.1351,
+    "EID": "SCI.BIO.322.2"
+}], "SCI.BIO.616": [{
+    "score": 0.1652,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.4917,
+    "EID": "SCI.BIO.619"
+}, {
+    "score": 0.3274,
+    "EID": "SCI.BIO.618"
+}, {
+    "score": 0.4095,
+    "EID": "SCI.BIO.617"
+}, {
+    "p": true,
+    "score": 0.6684,
+    "EID": "SCI.BIO.614"
+}, {
+    "score": 0.172,
+    "EID": "SCI.BIO.613"
+}, {
+    "score": 0.1485,
+    "EID": "SCI.LSC.631"
+}, {
+    "score": 0.1388,
+    "EID": "SCI.LSC.633"
+}, {
+    "score": 0.1647,
+    "EID": "SCI.LSC.632"
+}, {
+    "score": 0.1373,
+    "EID": "SCI.LSC.934.3"
+}, {
+    "score": 0.1347,
+    "EID": "SCI.BIO.617.1"
+}, {
+    "score": 0.1697,
+    "EID": "SCI.BIO.322"
+}, {
+    "score": 0.1615,
+    "EID": "SCI.LSC.936.8"
+}, {
+    "score": 0.2363,
+    "EID": "SCI.LSC.116.3"
+}, {
+    "score": 0.1457,
+    "EID": "SCI.LSC.116.1"
+}, {
+    "score": 0.4656,
+    "EID": "SCI.BIO.615.2"
+}, {
+    "score": 0.4331,
+    "EID": "SCI.BIO.615.3"
+}, {
+    "score": 0.4875,
+    "EID": "SCI.BIO.615.1"
+}, {
+    "score": 0.6635,
+    "EID": "SCI.BIO.223.1"
+}, {
+    "score": 0.2118,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.1391,
+    "EID": "SCI.LSC.959"
+}, {
+    "score": 0.1381,
+    "EID": "SCI.BIO.222"
+}, {
+    "score": 0.1526,
+    "EID": "SCI.BIO.114.4"
+}, {
+    "score": 0.1638,
+    "EID": "SCI.BIO.221"
+}, {
+    "score": 0.1741,
+    "EID": "SCI.LSC.200"
+}, {
+    "score": 0.1519,
+    "EID": "SCI.BIO.322.2"
+}, {
+    "score": 0.1753,
+    "EID": "SCI.LSC.613.1"
+}, {
+    "score": 0.2133,
+    "EID": "SCI.BIO.221.1"
+}], "SCI.LSC.428.5": [{
+    "score": 0.2748,
+    "EID": "SCI.ESC.120.1"
+}, {
+    "score": 0.2699,
+    "EID": "SCI.BIO.411"
+}, {
+    "score": 0.2216,
+    "EID": "SCI.BIO.413"
+}, {
+    "score": 0.3452,
+    "EID": "SCI.BIO.412"
+}, {
+    "score": 0.2226,
+    "EID": "SCI.BIO.415"
+}, {
+    "score": 0.3087,
+    "EID": "SCI.ESC.612"
+}, {
+    "score": 0.2671,
+    "EID": "SCI.BIO.211"
+}, {
+    "score": 0.4126,
+    "EID": "SCI.ESC.724"
+}, {
+    "score": 0.3101,
+    "EID": "SCI.ESC.746.5"
+}, {
+    "score": 0.2326,
+    "EID": "SCI.ESC.312.1"
+}, {
+    "score": 0.2281,
+    "EID": "SCI.ESC.691"
+}, {
+    "score": 0.2456,
+    "EID": "SCI.ESC.711.3"
+}, {
+    "score": 0.2444,
+    "EID": "SCI.ESC.734.4"
+}, {
+    "score": 0.4307,
+    "EID": "SCI.ESC.734.1"
+}, {
+    "score": 0.4317,
+    "EID": "SCI.ESC.734.3"
+}, {
+    "score": 0.2353,
+    "EID": "SCI.ESC.734.2"
+}, {
+    "score": 0.3893,
+    "EID": "SCI.LSC.428.6"
+}, {
+    "score": 0.3367,
+    "EID": "SCI.ESC.722.2"
+}, {
+    "score": 0.2204,
+    "EID": "SCI.BIO.119"
+}, {
+    "score": 0.3814,
+    "EID": "SCI.BIO.411.1"
+}, {
+    "score": 0.2257,
+    "EID": "SCI.LSC.425.1"
+}, {
+    "score": 0.2439,
+    "EID": "SCI.ESC.716"
+}, {
+    "score": 0.2401,
+    "EID": "SCI.ESC.732"
+}], "SCI.BIO.614": [{
+    "score": 0.2399,
+    "EID": "SCI.BIO.945"
+}, {
+    "score": 0.1699,
+    "EID": "SCI.BIO.220.1"
+}, {
+    "score": 0.5664,
+    "EID": "SCI.BIO.619"
+}, {
+    "score": 0.4078,
+    "EID": "SCI.BIO.618"
+}, {
+    "score": 0.5494,
+    "EID": "SCI.BIO.617"
+}, {
+    "score": 0.6684,
+    "EID": "SCI.BIO.616"
+}, {
+    "score": 0.1889,
+    "EID": "SCI.BIO.612.2"
+}, {
+    "p": true,
+    "score": 0.842,
+    "EID": "SCI.BIO.223.1"
+}, {
+    "score": 0.1664,
+    "EID": "SCI.BIO.948"
+}, {
+    "p": true,
+    "score": 0.1633,
+    "EID": "SCI.BIO.322"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.215"
+}, {
+    "score": 0.2358,
+    "EID": "SCI.LSC.116.1"
+}, {
+    "score": 0.5772,
+    "EID": "SCI.BIO.615.2"
+}, {
+    "score": 0.593,
+    "EID": "SCI.BIO.615.3"
+}, {
+    "score": 0.6139,
+    "EID": "SCI.BIO.615.1"
+}, {
+    "score": 0.2083,
+    "EID": "SCI.BIO.617.1"
+}, {
+    "score": 0.1695,
+    "EID": "SCI.BIO.959.2"
+}, {
+    "score": 0.2582,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.1733,
+    "EID": "SCI.LSC.959"
+}, {
+    "score": 0.1685,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.189,
+    "EID": "SCI.BIO.223"
+}, {
+    "p": true,
+    "score": 0.1964,
+    "EID": "SCI.BIO.115"
+}, {
+    "score": 0.1675,
+    "EID": "SCI.BIO.116"
+}, {
+    "score": 0.164,
+    "EID": "SCI.LSC.200"
+}, {
+    "score": 0.1894,
+    "EID": "SCI.BIO.322.2"
+}], "SCI.BIO.613": [{
+    "score": 0.4039,
+    "EID": "SCI.BIO.612.1"
+}, {
+    "score": 0.172,
+    "EID": "SCI.BIO.616"
+}, {
+    "score": 0.262,
+    "EID": "SCI.BIO.612.4"
+}, {
+    "score": 0.3343,
+    "EID": "SCI.BIO.611"
+}, {
+    "score": 0.4419,
+    "EID": "SCI.LSC.631"
+}, {
+    "score": 0.4168,
+    "EID": "SCI.LSC.633"
+}, {
+    "score": 0.6342,
+    "EID": "SCI.LSC.632"
+}, {
+    "score": 0.2001,
+    "EID": "SCI.LSC.934.3"
+}, {
+    "score": 0.1619,
+    "EID": "SCI.LSC.941"
+}, {
+    "score": 0.196,
+    "EID": "SCI.BIO.322"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.323.2"
+}, {
+    "score": 0.1617,
+    "EID": "SCI.BIO.512"
+}, {
+    "score": 0.2278,
+    "EID": "SCI.BIO.235"
+}, {
+    "score": 0.6022,
+    "EID": "SCI.LSC.936.8"
+}, {
+    "score": 0.1692,
+    "EID": "SCI.LSC.936.9"
+}, {
+    "score": 0.1585,
+    "EID": "SCI.BIO.617"
+}, {
+    "score": 0.1641,
+    "EID": "SCI.ESC.514.1"
+}, {
+    "score": 0.1594,
+    "EID": "SCI.LSC.515.3"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.527.1"
+}, {
+    "score": 0.3641,
+    "EID": "SCI.LSC.940.1"
+}, {
+    "score": 0.218,
+    "EID": "SCI.LSC.118.1"
+}, {
+    "score": 0.2137,
+    "EID": "SCI.LSC.640"
+}, {
+    "score": 0.1553,
+    "EID": "SCI.LSC.926.1"
+}, {
+    "score": 0.1601,
+    "EID": "SCI.BIO.117"
+}, {
+    "score": 0.1612,
+    "EID": "SCI.ESC.812"
+}, {
+    "score": 0.259,
+    "EID": "SCI.ESC.816"
+}, {
+    "score": 0.2447,
+    "EID": "SCI.BIO.322.2"
+}, {
+    "score": 0.6673,
+    "EID": "SCI.LSC.613.1"
+}, {
+    "score": 0.5609,
+    "EID": "SCI.LSC.613.2"
+}, {
+    "score": 0.1671,
+    "EID": "SCI.LSC.338.1"
+}], "SCI.BIO.611": [{
+    "score": 0.1717,
+    "EID": "SCI.BIO.220.1"
+}, {
+    "score": 0.1699,
+    "EID": "SCI.BIO.220.5"
+}, {
+    "score": 0.4258,
+    "EID": "SCI.BIO.612.1"
+}, {
+    "score": 0.2316,
+    "EID": "SCI.BIO.612.3"
+}, {
+    "score": 0.2881,
+    "EID": "SCI.BIO.612.2"
+}, {
+    "score": 0.3343,
+    "EID": "SCI.BIO.613"
+}, {
+    "score": 0.2723,
+    "EID": "SCI.BIO.612.4"
+}, {
+    "score": 0.2229,
+    "EID": "SCI.BIO.241.1"
+}, {
+    "score": 0.2576,
+    "EID": "SCI.LSC.633"
+}, {
+    "score": 0.357,
+    "EID": "SCI.LSC.632"
+}, {
+    "p": true,
+    "EID": "SCI.BIO.413"
+}, {
+    "score": 0.202,
+    "EID": "SCI.BIO.414"
+}, {
+    "score": 0.1647,
+    "EID": "SCI.LSC.222.4"
+}, {
+    "score": 0.1873,
+    "EID": "SCI.BIO.235"
+}, {
+    "score": 0.3286,
+    "EID": "SCI.LSC.936.8"
+}, {
+    "score": 0.2064,
+    "EID": "SCI.BIO.419.1"
+}, {
+    "p": true,
+    "score": 0.2537,
+    "EID": "SCI.BIO.223"
+}, {
+    "score": 0.191,
+    "EID": "SCI.BIO.612.5"
+}, {
+    "score": 0.348,
+    "EID": "SCI.LSC.631"
+}, {
+    "score": 0.1969,
+    "EID": "SCI.ESC.734.4"
+}, {
+    "score": 0.1783,
+    "EID": "SCI.ESC.734.3"
+}, {
+    "score": 0.6237,
+    "EID": "SCI.LSC.118.1"
+}, {
+    "score": 0.5423,
+    "EID": "SCI.LSC.640"
+}, {
+    "score": 0.3468,
+    "EID": "SCI.LSC.641"
+}, {
+    "score": 0.1872,
+    "EID": "SCI.BIO.241"
+}, {
+    "score": 0.3663,
+    "EID": "SCI.LSC.613.1"
+}, {
+    "score": 0.2397,
+    "EID": "SCI.LSC.613.2"
+}], "SCI.CHE.514.1": [{
+    "score": 0.3264,
+    "EID": "SCI.CHE.726.2"
+}, {
+    "score": 0.3981,
+    "EID": "SCI.CHE.542.1"
+}, {
+    "score": 0.4306,
+    "EID": "SCI.CHE.522.2"
+}, {
+    "score": 0.5207,
+    "EID": "SCI.CHE.512"
+}, {
+    "score": 0.3344,
+    "EID": "SCI.CHE.523.2"
+}, {
+    "score": 0.328,
+    "EID": "SCI.CHE.523.1"
+}, {
+    "score": 0.3317,
+    "EID": "SCI.CHE.124.5"
+}, {
+    "score": 0.4606,
+    "EID": "SCI.CHE.514.3"
+}, {
+    "score": 0.2955,
+    "EID": "SCI.PSC.152.11"
+}, {
+    "score": 0.3229,
+    "EID": "SCI.CHE.522.3"
+}, {
+    "score": 0.3019,
+    "EID": "SCI.CHE.563.3"
+}, {
+    "score": 0.3206,
+    "EID": "SCI.CHE.521.7"
+}, {
+    "score": 0.3205,
+    "EID": "SCI.PSC.133.5"
+}, {
+    "score": 0.3531,
+    "EID": "SCI.CHE.513.5"
+}, {
+    "score": 0.3236,
+    "EID": "SCI.CHE.512.1"
+}, {
+    "score": 0.3761,
+    "EID": "SCI.PSC.112.43"
+}, {
+    "score": 0.3295,
+    "EID": "SCI.CHE.124.4"
+}, {
+    "score": 0.3548,
+    "EID": "SCI.BIO.216"
+}, {
+    "score": 0.4596,
+    "EID": "SCI.CHE.334"
+}, {
+    "score": 0.2945,
+    "EID": "SCI.CHE.563.1"
+}, {
+    "score": 0.305,
+    "EID": "SCI.CHE.561.3"
+}, {
+    "score": 0.2923,
+    "EID": "SCI.CHE.512.2"
+}, {
+    "score": 0.3428,
+    "EID": "SCI.CHE.532.6"
+}, {
+    "score": 0.3675,
+    "EID": "SCI.CHE.531.1"
+}, {
+    "score": 0.3594,
+    "EID": "SCI.BIO.216.1"
+}, {
+    "score": 0.297,
+    "EID": "SCI.PSC.151.15"
+}], "SCI.CHE.514.2": [{
+    "score": 0.2385,
+    "EID": "SCI.PHY.247"
+}, {
+    "score": 0.1853,
+    "EID": "SCI.CHE.542.4"
+}, {
+    "score": 0.204,
+    "EID": "SCI.CHE.512"
+}, {
+    "score": 0.269,
+    "EID": "SCI.PHY.249"
+}, {
+    "score": 0.1948,
+    "EID": "SCI.CHE.514.1"
+}, {
+    "score": 0.1998,
+    "EID": "SCI.CHE.572.2"
+}, {
+    "score": 0.6778,
+    "EID": "SCI.CHE.514.3"
+}, {
+    "score": 0.1913,
+    "EID": "SCI.CHE.512.1"
+}, {
+    "score": 0.2344,
+    "EID": "SCI.CHE.513.2"
+}, {
+    "score": 0.2499,
+    "EID": "SCI.CHE.513.1"
+}, {
+    "score": 0.1959,
+    "EID": "SCI.CHE.123.2"
+}, {
+    "score": 0.2371,
+    "EID": "SCI.CHE.513.4"
+}, {
+    "score": 0.204,
+    "EID": "SCI.ESC.650"
+}, {
+    "score": 0.229,
+    "EID": "SCI.CHE.511.2"
+}, {
+    "score": 0.2468,
+    "EID": "SCI.CHE.511.7"
+}, {
+    "score": 0.232,
+    "EID": "SCI.CHE.511.6"
+}, {
+    "score": 0.225,
+    "EID": "SCI.CHE.513.3"
+}, {
+    "score": 0.1867,
+    "EID": "SCI.CHE.512.2"
+}, {
+    "score": 0.1853,
+    "EID": "SCI.PSC.171.3"
+}, {
+    "score": 0.2575,
+    "EID": "SCI.PHY.247.1"
+}, {
+    "score": 0.2005,
+    "EID": "SCI.ESC.624"
+}, {
+    "score": 0.253,
+    "EID": "SCI.ESC.622"
+}, {
+    "score": 0.2076,
+    "EID": "SCI.CHE.541.2"
+}], "SCI.CHE.514.3": [{
+    "score": 0.294,
+    "EID": "SCI.CHE.542.4"
+}, {
+    "score": 0.3361,
+    "EID": "SCI.CHE.542.1"
+}, {
+    "score": 0.3187,
+    "EID": "SCI.CHE.522.2"
+}, {
+    "score": 0.4326,
+    "EID": "SCI.CHE.512"
+}, {
+    "score": 0.2962,
+    "EID": "SCI.CHE.523.2"
+}, {
+    "score": 0.2559,
+    "EID": "SCI.CHE.523.1"
+}, {
+    "score": 0.2714,
+    "EID": "SCI.PHY.247.1"
+}, {
+    "score": 0.6778,
+    "EID": "SCI.CHE.514.2"
+}, {
+    "score": 0.2557,
+    "EID": "SCI.CHE.513.3"
+}, {
+    "score": 0.2549,
+    "EID": "SCI.CHE.513.2"
+}, {
+    "score": 0.2593,
+    "EID": "SCI.CHE.513.1"
+}, {
+    "score": 0.3026,
+    "EID": "SCI.CHE.512.2"
+}, {
+    "score": 0.2526,
+    "EID": "SCI.CHE.512.3"
+}, {
+    "score": 0.2685,
+    "EID": "SCI.CHE.513.5"
+}, {
+    "score": 0.2793,
+    "EID": "SCI.CHE.512.1"
+}, {
+    "score": 0.2651,
+    "EID": "SCI.PSC.112.43"
+}, {
+    "score": 0.2561,
+    "EID": "SCI.CHE.124.4"
+}, {
+    "score": 0.2641,
+    "EID": "SCI.BIO.216"
+}, {
+    "score": 0.2537,
+    "EID": "SCI.BIO.216.1"
+}, {
+    "score": 0.2518,
+    "EID": "SCI.CHE.511.3"
+}, {
+    "score": 0.3005,
+    "EID": "SCI.CHE.511.7"
+}, {
+    "score": 0.2703,
+    "EID": "SCI.CHE.334"
+}, {
+    "score": 0.2822,
+    "EID": "SCI.CHE.532.4"
+}, {
+    "score": 0.2722,
+    "EID": "SCI.CHE.532.6"
+}, {
+    "score": 0.4606,
+    "EID": "SCI.CHE.514.1"
+}, {
+    "score": 0.2671,
+    "EID": "SCI.CHE.531.1"
+}, {
+    "score": 0.2634,
+    "EID": "SCI.CHE.513.4"
+}, {
+    "score": 0.2579,
+    "EID": "SCI.CHE.124.5"
+}], "MAT.CAL.520": [{
+    "score": 0.6541,
+    "EID": "MAT.TRG.422"
+}, {
+    "score": 0.6786,
+    "EID": "MAT.TRG.424"
+}, {
+    "score": 0.6582,
+    "EID": "MAT.CAL.836"
+}, {
+    "score": 0.7362,
+    "EID": "MAT.CAL.521"
+}, {
+    "score": 0.5418,
+    "EID": "MAT.ALG.441"
+}, {
+    "score": 0.4648,
+    "EID": "MAT.ALY.231"
+}, {
+    "score": 0.4668,
+    "EID": "MAT.CAL.250"
+}, {
+    "score": 0.4969,
+    "EID": "MAT.ALY.160"
+}, {
+    "score": 0.5167,
+    "EID": "MAT.ALY.144"
+}, {
+    "score": 0.4938,
+    "EID": "MAT.CAL.120"
+}, {
+    "score": 0.5972,
+    "EID": "MAT.CAL.126"
+}, {
+    "score": 0.5997,
+    "EID": "MAT.CAL.564"
+}, {
+    "score": 0.4597,
+    "EID": "MAT.ALY.142"
+}, {
+    "p": true,
+    "score": 0.9222,
+    "EID": "MAT.ALY.312"
+}, {
+    "score": 0.5814,
+    "EID": "MAT.ALY.140"
+}, {
+    "score": 0.6132,
+    "EID": "MAT.ALY.310"
+}, {
+    "score": 0.6222,
+    "EID": "MAT.TRG.416"
+}, {
+    "score": 0.4541,
+    "EID": "MAT.ALG.430"
+}, {
+    "score": 0.4919,
+    "EID": "MAT.ALG.431"
+}, {
+    "score": 0.4571,
+    "EID": "MAT.ALG.214.1"
+}, {
+    "score": 0.4767,
+    "EID": "MAT.ALG.411"
+}, {
+    "score": 0.446,
+    "EID": "MAT.ALY.334.3"
+}, {
+    "score": 0.4518,
+    "EID": "MAT.CAL.156"
+}, {
+    "score": 0.5095,
+    "EID": "MAT.CAL.138"
+}, {
+    "score": 0.4682,
+    "EID": "MAT.ALY.112"
+}, {
+    "score": 0.4446,
+    "EID": "MAT.ALY.110"
+}]}

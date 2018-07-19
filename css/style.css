@@ -1,0 +1,35 @@
+body {
+	font-family: arial;
+	margin: 0;
+	padding: 0;
+	background: #F4F6F1;
+}
+svg {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	text-rendering: geometricPrecision;
+}
+.node {
+	cursor: pointer;
+}
+.node:hover {
+	stroke-width:3px;
+	-webkit-transition-delay: ease-in 1s;
+	transition-delay: ease-in 1s;
+	opacity: 0.5;
+}
+.node-group {
+	position: relative;
+}
+.node-group[disabled='true'] {
+	opacity: 0.4;
+}
+.node-group[disabled='true'] circle {
+	fill: #ccc;
+	stroke: #ccc;
+}
+.node-group[disabled='true'] circle.cur-node {
+	fill: #4ec2f6;
+}
